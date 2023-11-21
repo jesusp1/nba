@@ -1,794 +1,364 @@
 ﻿Player,Matchup,League,Category,PrizePicks Line,RotoWire Proj,RotoWire Proj
-D'Angelo Russell,vs HOU,NBA,Steals,0.5,1.05,110.60%
-Harrison Barnes,@ DAL,NBA,Turnovers,0.5,1.02,104.51%
-Josh Giddey,@ POR,NBA,3-PT Made,0.5,1.02,103.06%
-Jaren Jackson Jr.,vs BOS,NBA,Steals,0.5,0.99,98.52%
-Jabari Smith Jr.,@ LAL,NBA,Blocked Shots,0.5,0.91,82.67%
-Jalen Smith,vs ORL,NBA,Blocked Shots,0.5,0.90,80.26%
-Cade Cunningham,@ TOR,NBA,Rebounds,4,7.07,76.64%
-Moritz Wagner,@ IND,NBA,3-PT Made,0.5,0.88,75.55%
-Toumani Camara,vs OKC,NBA1H,Points,3.5,6.12,74.84%
-Jordan Clarkson,vs PHX,NBA,Rebounds,3.5,5.81,66.00%
-Toumani Camara,vs OKC,NBA,Points,7.5,12.24,63.19%
-Reggie Jackson,@ CLE,NBA,Turnovers,1.5,2.36,57.51%
-Lauri Markkanen,vs PHX,NBA,Blocked Shots,0.5,0.78,56.23%
-Taurean Prince,vs HOU,NBA,Rebounds,2.5,3.90,56.07%
-Jusuf Nurkic,@ UTA,NBA,3-PT Made,0.5,0.78,55.76%
-Kentavious Caldwell-Pope,@ CLE,NBA,Pts+Rebs,10.5,16.17,53.98%
-D'Angelo Russell,vs HOU,NBA,Turnovers,1.5,2.27,51.42%
-Toumani Camara,vs OKC,NBA,Blocked Shots,0.5,0.75,49.96%
-Jalen Williams,@ POR,NBA,Rebounds,4,5.96,48.97%
-Kentavious Caldwell-Pope,@ CLE,NBA,Points,8.5,12.60,48.23%
-Kentavious Caldwell-Pope,@ CLE,NBA,Pts+Asts,10.5,15.43,46.96%
-Taurean Prince,vs HOU,NBA,Steals,0.5,0.73,45.76%
-Bruce Brown,vs ORL,NBA,Assists,2.5,3.64,45.59%
-Domantas Sabonis,@ DAL,NBA,Blocked Shots,0.5,0.73,45.56%
-Dillon Brooks,@ LAL,NBA1H,Points,4.5,6.55,45.50%
-Cole Anthony,@ IND,NBA,Rebounds,4,5.79,44.80%
-Dillon Brooks,@ LAL,NBA,Free Throws Made,2.5,1.39,-44.54%
-Jayson Tatum,@ MEM,NBA,Blocked Shots,0.5,0.72,44.44%
-Matisse Thybulle,vs OKC,NBA,Turnovers,0.5,0.71,42.06%
-Keyonte George,vs PHX,NBA,Assists,6.5,3.78,-41.78%
-Michael Porter Jr.,@ CLE,NBA,Steals,0.5,0.71,41.51%
-Paolo Banchero,@ IND,NBA,Steals,0.5,0.70,40.66%
-Jerami Grant,vs OKC,NBA,Rebounds,4.5,6.32,40.45%
-Lauri Markkanen,vs PHX,NBA,Rebounds,8.5,11.92,40.26%
-Kentavious Caldwell-Pope,@ CLE,NBA1H,Points,4.5,6.30,40.00%
-Gary Trent Jr.,vs DET,NBA,Turnovers,0.5,0.69,38.95%
-Bruce Brown,vs ORL,NBA,Blocked Shots,0.5,0.69,38.29%
-Shai Gilgeous-Alexander,@ POR,NBA,Blocked Shots,0.5,0.69,37.92%
-Dillon Brooks,@ LAL,NBA,Points,9.5,13.10,37.85%
-Deandre Ayton,vs OKC,NBA,Pts+Asts,15.5,21.36,37.78%
-Chet Holmgren,@ POR,NBA,Free Throws Made,3.5,2.22,-36.54%
-John Collins,vs PHX,NBA,Blks+Stls,1.5,2.05,36.44%
-Deandre Ayton,vs OKC,NBA,Points,14,18.99,35.65%
-Deandre Ayton,vs OKC,NBA1H,Points,7,9.50,35.65%
-Kentavious Caldwell-Pope,@ CLE,NBA,3-PT Made,1.5,2.03,35.54%
-Moritz Wagner,@ IND,NBA,Rebounds,4.5,6.07,34.93%
-Jalen Smith,vs ORL,NBA,3-PT Made,0.5,0.67,34.68%
-Lauri Markkanen,vs PHX,NBA,Turnovers,1.5,2.02,34.36%
-De'Aaron Fox,@ DAL,NBA,3-PT Made,2.5,1.65,-33.98%
-Cole Anthony,@ IND,NBA,Rebs+Asts,7.5,10.03,33.67%
-Dillon Brooks,@ LAL,NBA,Pts+Asts,11.5,15.33,33.30%
-Luguentz Dort,@ POR,NBA,Blks+Stls,1.5,1.00,-33.25%
-Shaedon Sharpe,vs OKC,NBA,Assists,4,2.67,-33.24%
-Fred VanVleet,@ LAL,NBA,Free Throws Made,2.5,3.32,32.70%
-Jerami Grant,vs OKC,NBA,Rebs+Asts,7,9.28,32.51%
-Cade Cunningham,@ TOR,NBA,Rebs+Asts,10.5,13.86,31.96%
-Ausar Thompson,@ TOR,NBA1Q,Points,2.5,3.29,31.58%
-Harrison Barnes,@ DAL,NBA,Pts+Rebs,13.5,17.74,31.40%
-Aaron Gordon,@ CLE,NBA,Points,14.5,19.04,31.33%
-Scottie Barnes,vs DET,NBA,Free Throws Made,3.5,2.41,-31.27%
-Obi Toppin,vs ORL,NBA,Rebounds,4,5.25,31.17%
-Alperen Sengun,@ LAL,NBA,Rebounds,9,11.80,31.07%
-Dillon Brooks,@ LAL,NBA1Q,Points,2.5,3.27,30.95%
-Fred VanVleet,@ LAL,NBA,Rebounds,4,5.23,30.66%
-Taurean Prince,vs HOU,NBA,Points,8.5,11.10,30.58%
-Obi Toppin,vs ORL,NBA,Free Throws Made,1.5,1.04,-30.49%
-Taurean Prince,vs HOU,NBA,Pts+Rebs,11.5,15.00,30.44%
-Kristaps Porzingis,@ MEM,NBA,Turnovers,1.5,1.96,30.41%
-Jaylen Brown,@ MEM,NBA,Rebounds,5.5,7.17,30.34%
-Bruce Brown,vs ORL,NBA1H,Pts+Rebs+Asts,8.5,11.08,30.32%
-Jordan Clarkson,vs PHX,NBA,Rebs+Asts,8.5,11.05,29.99%
-Gary Trent Jr.,vs DET,NBA,Pts+Asts,11.5,14.92,29.70%
-Kyrie Irving,vs SAC,NBA,Assists,7.5,5.28,-29.66%
-Taurean Prince,vs HOU,NBA1H,Fantasy Score,8,10.34,29.28%
-Devin Booker,@ UTA,NBA,Assists,8,5.68,-29.00%
-Scottie Barnes,vs DET,NBA,3-PT Made,1.5,1.07,-28.80%
-Aaron Gordon,@ CLE,NBA,Pts+Rebs,21.5,27.68,28.76%
-Jayson Tatum,@ MEM,NBA,3-PT Made,3.5,2.50,-28.66%
-Harrison Barnes,@ DAL,NBA1Q,Points,2.5,3.22,28.66%
-Deandre Ayton,vs OKC,NBA1H,Pts+Rebs+Asts,13.5,17.37,28.65%
-Keegan Murray,@ DAL,NBA,Free Throws Made,1.5,1.07,-28.58%
-Chet Holmgren,@ POR,NBA,3-PT Made,1.5,1.92,28.18%
-Gary Trent Jr.,vs DET,NBA,Points,10.5,13.45,28.14%
-Bruce Brown,vs ORL,NBA,Rebs+Asts,7,8.94,27.68%
-Toumani Camara,vs OKC,NBA,Rebounds,5,6.38,27.67%
-Skylar Mays,vs OKC,NBA1H,Points,6.5,8.28,27.33%
-Deandre Ayton,vs OKC,NBA,Pts+Rebs,25.5,32.37,26.95%
-Dillon Brooks,@ LAL,NBA,Pts+Rebs,13.5,17.10,26.69%
-Spencer Dinwiddie,vs PHI,NBA2H,Points,7.5,9.48,26.46%
-Isaiah Stewart,@ TOR,NBA,Rebounds,8,10.11,26.32%
-Deandre Ayton,vs OKC,NBA,Pts+Rebs+Asts,27.5,34.74,26.32%
-Bruce Brown,vs ORL,NBA,Points,10.5,13.22,25.88%
-Gary Trent Jr.,vs DET,NBA,Pts+Rebs,12.5,15.72,25.76%
-Nikola Jokic,@ CLE,NBA1Q,Points,8,5.97,-25.38%
-Isaiah Stewart,@ TOR,NBA,Rebs+Asts,9.5,11.90,25.27%
-Keyonte George,vs PHX,NBA,Pts+Rebs,12.5,15.64,25.15%
-Bruce Brown,vs ORL,NBA,Pts+Asts,13.5,16.86,24.86%
-Jakob Poeltl,vs DET,NBA,Points,10,12.48,24.77%
-Jakob Poeltl,vs DET,NBA1H,Points,5,6.24,24.77%
-Domantas Sabonis,@ DAL,NBA,Rebounds,12.5,15.58,24.65%
-Ochai Agbaji,vs PHX,NBA,Blocked Shots,0.5,0.38,-24.39%
-Harrison Barnes,@ DAL,NBA,Pts+Asts,11.5,14.30,24.36%
-Jakob Poeltl,vs DET,NBA,Pts+Rebs+Asts,20.5,25.47,24.24%
-Luguentz Dort,@ POR,NBA1H,Points,4.5,5.58,24.08%
-LeBron James,vs HOU,NBA,Free Throws Made,4.5,3.42,-23.96%
-Spencer Dinwiddie,vs PHI,NBA2H,Pts+Rebs+Asts,12.5,15.49,23.91%
-Jakob Poeltl,vs DET,NBA,Rebs+Asts,10.5,12.99,23.74%
-Jordan Clarkson,vs PHX,NBA,Turnovers,2.5,3.09,23.73%
-Jusuf Nurkic,@ UTA,NBA,Rebounds,8.5,10.50,23.51%
-Aaron Gordon,@ CLE,NBA,Rebounds,7,8.64,23.44%
-Jrue Holiday,@ MEM,NBA,Blocked Shots,0.5,0.38,-23.44%
-Taurean Prince,vs HOU,NBA1H,Points,4.5,5.55,23.32%
-Bennedict Mathurin,vs ORL,NBA1H,Points,6.5,8.00,23.12%
-Bruce Brown,vs ORL,NBA,Pts+Rebs+Asts,18,22.15,23.08%
-Nikola Jokic,@ CLE,NBA1H,Points,15.5,11.94,-22.97%
-Jalen Green,@ LAL,NBA,Free Throws Made,5,3.86,-22.89%
-Scottie Barnes,vs DET,NBA,Steals,1.5,1.16,-22.78%
-Skylar Mays,vs OKC,NBA,Points,13.5,16.55,22.61%
-Aaron Gordon,@ CLE,NBA,Pts+Rebs+Asts,25.5,31.26,22.59%
-Shai Gilgeous-Alexander,@ POR,NBA1Q,Points,9,6.97,-22.55%
-Harrison Barnes,@ DAL,NBA,Points,10.5,12.87,22.53%
-Jakob Poeltl,vs DET,NBA,Pts+Rebs,18.5,22.63,22.32%
-Gary Trent Jr.,vs DET,NBA1H,Points,5.5,6.73,22.31%
-Aaron Gordon,@ CLE,NBA,Pts+Asts,18.5,22.62,22.26%
-LeBron James,vs HOU,NBA,Turnovers,3.5,2.73,-22.12%
-Deandre Ayton,vs OKC,NBA,Fantasy Score,33.5,40.88,22.03%
-Tyrese Maxey,@ BKN,NBA2H,Fantasy Score,21.5,16.83,-21.73%
-Nikola Jokic,@ CLE,NBA,Points,30.5,23.88,-21.71%
-Kyrie Irving,vs SAC,NBA,Pts+Asts,37.5,29.41,-21.57%
-Goga Bitadze,@ IND,NBA,Steals,0.5,0.61,21.53%
-OG Anunoby,vs DET,NBA,Free Throws Made,1.5,1.82,21.29%
-Jakob Poeltl,vs DET,NBA1H,Pts+Rebs+Asts,10.5,12.73,21.28%
-Paolo Banchero,@ IND,NBA,Assists,4.5,3.54,-21.26%
-Bennedict Mathurin,vs ORL,NBA,Rebounds,4,4.85,21.22%
-Scottie Barnes,vs DET,NBA,Points,19,14.98,-21.15%
-Scottie Barnes,vs DET,NBA1H,Points,9.5,7.49,-21.15%
-Jaylen Brown,@ MEM,NBA,Rebs+Asts,8.5,10.30,21.14%
-Desmond Bane,vs BOS,NBA,Rebounds,5,6.06,21.12%
-Kristaps Porzingis,@ MEM,NBA,Rebounds,7.5,9.08,21.05%
-Anthony Davis,vs HOU,NBA1Q,Points,6.5,5.14,-20.98%
-Josh Giddey,@ POR,NBA,Free Throws Made,1.5,1.19,-20.95%
-Jakob Poeltl,vs DET,NBA,Fantasy Score,28.5,34.41,20.73%
-Dennis Schroder,vs DET,NBA,Assists,6.5,5.16,-20.68%
-Jaylen Brown,@ MEM,NBA,3-PT Made,2.5,1.99,-20.55%
-Max Strus,vs DEN,NBA,Assists,4,3.18,-20.52%
-Scottie Barnes,vs DET,NBA,Pts+Asts,24.5,19.52,-20.33%
-Deandre Ayton,vs OKC,NBA1H,Fantasy Score,17,20.44,20.24%
-Aaron Nesmith,vs ORL,NBA,Rebounds,3.5,4.21,20.20%
-Bruce Brown,vs ORL,NBA1H,Points,5.5,6.61,20.15%
-Jabari Smith Jr.,@ LAL,NBA1Q,Points,2.5,3.00,19.83%
-Cole Anthony,@ IND,NBA,Pts+Rebs+Asts,20.5,24.56,19.80%
-Tyrese Maxey,@ BKN,NBA2H,Pts+Rebs+Asts,18.5,14.85,-19.75%
-Anthony Davis,vs HOU,NBA,Free Throws Made,6,4.82,-19.63%
-Luka Doncic,vs SAC,NBA,3-PT Made,3.5,2.82,-19.55%
-Kyrie Irving,vs SAC,NBA1H,Points,15,12.07,-19.55%
-Jakob Poeltl,vs DET,NBA,Rebounds,8.5,10.15,19.45%
-Bruce Brown,vs ORL,NBA,Pts+Rebs,15.5,18.51,19.45%
-Kyrie Irving,vs SAC,NBA1H,Pts+Rebs+Asts,21.5,17.34,-19.35%
-Scottie Barnes,vs DET,NBA,Blks+Stls,2.5,2.02,-19.32%
-Scottie Barnes,vs DET,NBA,Pts+Rebs+Asts,33,26.63,-19.30%
-Scottie Barnes,vs DET,NBA1H,Pts+Rebs+Asts,16.5,13.32,-19.30%
-Josh Giddey,@ POR,NBA,Rebounds,6,7.15,19.22%
-Bennedict Mathurin,vs ORL,NBA,Pts+Rebs,17.5,20.85,19.17%
-Pascal Siakam,vs DET,NBA,Turnovers,2.5,2.02,-19.11%
-Spencer Dinwiddie,vs PHI,NBA2H,Fantasy Score,15.5,18.46,19.08%
-Myles Turner,vs ORL,NBA,Rebs+Asts,8.5,10.12,19.05%
-Aaron Gordon,@ CLE,NBA1H,Points,8,9.52,19.02%
-Obi Toppin,vs ORL,NBA1Q,Points,3.5,2.84,-18.98%
-Nicolas Claxton,vs PHI,NBA2H,Fantasy Score,14.5,17.24,18.89%
-Deandre Ayton,vs OKC,NBA1Q,Points,4,4.75,18.70%
-Jakob Poeltl,vs DET,NBA1H,Fantasy Score,14.5,17.20,18.65%
-Chet Holmgren,@ POR,NBA,Rebounds,8.5,10.08,18.60%
-Bennedict Mathurin,vs ORL,NBA,Points,13.5,16.01,18.56%
-Jrue Holiday,@ MEM,NBA,Pts+Asts,20.5,24.30,18.53%
-Kyrie Irving,vs SAC,NBA,Pts+Rebs+Asts,42.5,34.68,-18.40%
-Jrue Holiday,@ MEM,NBA,Points,14.5,17.16,18.36%
-Myles Turner,vs ORL,NBA,3-PT Made,1.5,1.23,-18.22%
-Kyrie Irving,vs SAC,NBA,Points,29.5,24.14,-18.18%
-Bennedict Mathurin,vs ORL,NBA1H,Pts+Rebs+Asts,9.5,11.21,18.01%
-Alperen Sengun,@ LAL,NBA1H,Points,9.5,7.80,-17.93%
-Alperen Sengun,@ LAL,NBA,Pts+Asts,23.5,19.33,-17.76%
-Bruce Brown,vs ORL,NBA,Rebounds,4.5,5.30,17.73%
-Isaiah Stewart,@ TOR,NBA1Q,Points,2.5,2.94,17.71%
-Dennis Schroder,vs DET,NBA,Turnovers,1.5,1.76,17.58%
-Luguentz Dort,@ POR,NBA,Points,9.5,11.17,17.55%
-Jabari Smith Jr.,@ LAL,NBA,Rebs+Asts,8,9.38,17.19%
-Kevin Durant,@ UTA,NBA1H,Points,15.5,12.85,-17.12%
-Skylar Mays,vs OKC,NBA,Pts+Rebs,17.5,20.49,17.11%
-Jaren Jackson Jr.,vs BOS,NBA,Rebounds,6.5,7.61,17.07%
-Alperen Sengun,@ LAL,NBA,Assists,4.5,3.73,-17.05%
-Harrison Barnes,@ DAL,NBA1H,Points,5.5,6.43,16.96%
-Cole Anthony,@ IND,NBA1H,Pts+Rebs+Asts,10.5,12.28,16.95%
-Scottie Barnes,vs DET,NBA,Fantasy Score,41.5,34.53,-16.81%
-Chet Holmgren,@ POR,NBA,Assists,2.5,2.08,-16.70%
-Nicolas Claxton,vs PHI,NBA2H,Points,5.5,6.42,16.66%
-Nicolas Claxton,vs PHI,NBA2H,Pts+Rebs+Asts,10.5,12.25,16.64%
-Scottie Barnes,vs DET,NBA,Pts+Rebs,26.5,22.09,-16.63%
-Deandre Ayton,vs OKC,NBA,Rebs+Asts,13.5,15.75,16.63%
-Domantas Sabonis,@ DAL,NBA1Q,Points,6,5.01,-16.54%
-Jordan Clarkson,vs PHX,NBA,Assists,4.5,5.24,16.43%
-Desmond Bane,vs BOS,NBA,Assists,5,5.82,16.43%
-Tyrese Haliburton,vs ORL,NBA,Assists,12,10.03,-16.42%
-Deandre Ayton,vs OKC,NBA,Rebounds,11.5,13.38,16.35%
-Cole Anthony,@ IND,NBA,Points,12.5,14.53,16.27%
-Jusuf Nurkic,@ UTA,NBA,Pts+Rebs,19.5,22.65,16.16%
-Myles Turner,vs ORL,NBA,Rebounds,7.5,8.71,16.15%
-Cole Anthony,@ IND,NBA,Pts+Rebs,17.5,20.33,16.14%
-Franz Wagner,@ IND,NBA,Rebounds,4.5,5.22,16.09%
-Bruce Brown,vs ORL,NBA,Free Throws Made,1.5,1.74,16.06%
-Josh Giddey,@ POR,NBA,Rebs+Asts,10.5,12.18,15.98%
-Scottie Barnes,vs DET,NBA1H,Fantasy Score,20.5,17.26,-15.79%
-Aaron Gordon,@ CLE,NBA1H,Pts+Rebs+Asts,13.5,15.63,15.78%
-Nikola Jokic,@ CLE,NBA,Pts+Asts,39.5,33.27,-15.77%
-Kevin Durant,@ UTA,NBA,Points,30.5,25.69,-15.76%
-Jusuf Nurkic,@ UTA,NBA,Points,10.5,12.15,15.74%
-Jalen Suggs,@ IND,NBA,Fantasy Score,24,27.76,15.67%
-Jalen Suggs,@ IND,NBA1H,Fantasy Score,12,13.88,15.67%
-Kyrie Irving,vs SAC,NBA,Rebs+Asts,12.5,10.54,-15.66%
-Lauri Markkanen,vs PHX,NBA1H,Pts+Rebs+Asts,16.5,19.06,15.49%
-Isaiah Stewart,@ TOR,NBA,Pts+Rebs+Asts,20.5,23.67,15.47%
-Devin Booker,@ UTA,NBA1H,Pts+Rebs+Asts,21.5,18.18,-15.45%
-Jabari Smith Jr.,@ LAL,NBA,Rebounds,7,8.08,15.45%
-Jabari Smith Jr.,@ LAL,NBA,Pts+Rebs+Asts,18.5,21.36,15.45%
-Jabari Smith Jr.,@ LAL,NBA,Pts+Asts,11.5,13.28,15.45%
-Kevin Huerter,@ DAL,NBA1H,Points,6.5,7.50,15.36%
-Alperen Sengun,@ LAL,NBA,Turnovers,2.5,2.88,15.29%
-Ausar Thompson,@ TOR,NBA,Fantasy Score,33.5,28.43,-15.12%
-Jordan Clarkson,vs PHX,NBA1H,Points,12,10.20,-15.02%
-Bennedict Mathurin,vs ORL,NBA,Pts+Rebs+Asts,19.5,22.42,14.99%
-Grayson Allen,@ UTA,NBA,Pts+Rebs+Asts,16.5,18.94,14.80%
-Kyrie Irving,vs SAC,NBA,Pts+Rebs,34.5,29.40,-14.78%
-Derrick White,@ MEM,NBA,Rebounds,4,4.59,14.72%
-Jabari Smith Jr.,@ LAL,NBA,Pts+Rebs,17.5,20.06,14.65%
-Eric Gordon,@ UTA,NBA1H,Pts+Rebs+Asts,8.5,9.74,14.62%
-Jrue Holiday,@ MEM,NBA1H,Points,7.5,8.58,14.42%
-Tyrese Maxey,@ BKN,NBA2H,Points,12.5,10.70,-14.39%
-Bennedict Mathurin,vs ORL,NBA1Q,Points,3.5,4.00,14.33%
-Jaren Jackson Jr.,vs BOS,NBA,Pts+Asts,25.5,21.87,-14.23%
-Devin Booker,@ UTA,NBA,Pts+Asts,36,30.90,-14.17%
-Jabari Smith Jr.,@ LAL,NBA,Points,10.5,11.98,14.13%
-Nikola Jokic,@ CLE,NBA,Pts+Rebs,43.5,37.36,-14.11%
-De'Aaron Fox,@ DAL,NBA,Turnovers,2.5,2.85,14.10%
-Skylar Mays,vs OKC,NBA,Pts+Asts,22.5,25.67,14.09%
-Moritz Wagner,@ IND,NBA,Pts+Rebs,15.5,17.68,14.04%
-Jrue Holiday,@ MEM,NBA,Pts+Rebs+Asts,26.5,30.21,14.01%
-Tyrese Haliburton,vs ORL,NBA1H,Pts+Rebs+Asts,20.5,17.63,-13.98%
-Reggie Jackson,@ CLE,NBA,Assists,4,4.56,13.98%
-Tyrese Haliburton,vs ORL,NBA1H,Points,12,10.33,-13.90%
-Ausar Thompson,@ TOR,NBA1H,Fantasy Score,16.5,14.22,-13.84%
-Domantas Sabonis,@ DAL,NBA,Free Throws Made,3.5,3.98,13.78%
-Lauri Markkanen,vs PHX,NBA,Pts+Rebs+Asts,33.5,38.11,13.76%
-Cole Anthony,@ IND,NBA,Pts+Asts,16.5,18.77,13.74%
-Ochai Agbaji,vs PHX,NBA,Points,8.5,9.66,13.64%
-Tyrese Haliburton,vs ORL,NBA,Pts+Asts,35.5,30.69,-13.54%
-Obi Toppin,vs ORL,NBA,Pts+Rebs+Asts,16,18.16,13.52%
-Chet Holmgren,@ POR,NBA1Q,Points,4.5,3.89,-13.48%
-Jrue Holiday,@ MEM,NBA,Rebs+Asts,11.5,13.05,13.47%
-Nikola Jokic,@ CLE,NBA1H,Pts+Rebs+Asts,27,23.38,-13.41%
-Alperen Sengun,@ LAL,NBA,Points,18,15.59,-13.37%
-Alperen Sengun,@ LAL,NBA1Q,Points,4.5,3.90,-13.37%
-Jarrett Allen,vs DEN,NBA,Points,13.5,15.30,13.33%
-Kentavious Caldwell-Pope,@ CLE,NBA,Free Throws Made,1.5,1.70,13.31%
-Kevin Durant,@ UTA,NBA,Assists,4.5,5.10,13.25%
-Jabari Smith Jr.,@ LAL,NBA,Fantasy Score,23.5,26.60,13.18%
-Desmond Bane,vs BOS,NBA,Rebs+Asts,10.5,11.88,13.12%
-Moritz Wagner,@ IND,NBA1H,Pts+Rebs+Asts,8.5,9.61,13.09%
-Jayson Tatum,@ MEM,NBA1H,Pts+Rebs+Asts,21.5,18.69,-13.07%
-Jarrett Allen,vs DEN,NBA,Fantasy Score,31,35.00,12.90%
-Jarrett Allen,vs DEN,NBA1H,Fantasy Score,15.5,17.50,12.90%
-Jalen Green,@ LAL,NBA,Rebounds,4,4.52,12.89%
-Buddy Hield,vs ORL,NBA1H,Pts+Rebs+Asts,9.5,10.72,12.87%
-Bennedict Mathurin,vs ORL,NBA1H,Fantasy Score,11,12.42,12.87%
-Mikal Bridges,vs PHI,NBA2H,Points,11.5,10.02,-12.87%
-Pascal Siakam,vs DET,NBA1Q,Points,6,5.23,-12.86%
-Pascal Siakam,vs DET,NBA,Assists,4.5,5.08,12.83%
-Isaiah Stewart,@ TOR,NBA1H,Pts+Rebs+Asts,10.5,11.84,12.72%
-Max Strus,vs DEN,NBA1Q,Points,4.5,3.93,-12.67%
-Shaedon Sharpe,vs OKC,NBA,Pts+Asts,23.5,20.54,-12.60%
-Jrue Holiday,@ MEM,NBA,Pts+Rebs,20.5,23.08,12.56%
-Eric Gordon,@ UTA,NBA,3-PT Made,2.5,2.19,-12.47%
-Jabari Smith Jr.,@ LAL,NBA1H,Pts+Rebs+Asts,9.5,10.68,12.41%
-Aaron Nesmith,vs ORL,NBA,Points,8.5,9.54,12.20%
-Jalen Green,@ LAL,NBA1Q,Points,4.5,5.05,12.15%
-Jarrett Allen,vs DEN,NBA,Pts+Rebs+Asts,24.5,27.47,12.14%
-LeBron James,vs HOU,NBA,Assists,7,6.15,-12.14%
-Shai Gilgeous-Alexander,@ POR,NBA,Blks+Stls,2.5,2.20,-12.11%
-Max Strus,vs DEN,NBA,Pts+Asts,21.5,18.90,-12.10%
-Luguentz Dort,@ POR,NBA,Pts+Asts,11.5,12.89,12.05%
-Jrue Holiday,@ MEM,NBA1H,Pts+Rebs+Asts,13.5,15.11,11.90%
-De'Anthony Melton,@ BKN,NBA2H,Points,7,6.17,-11.83%
-Shaedon Sharpe,vs OKC,NBA1H,Pts+Rebs+Asts,15,13.23,-11.83%
-Cole Anthony,@ IND,NBA1H,Points,6.5,7.27,11.79%
-Keyonte George,vs PHX,NBA,Rebs+Asts,9.5,8.38,-11.77%
-Isaiah Stewart,@ TOR,NBA,Fantasy Score,24,26.82,11.75%
-Skylar Mays,vs OKC,NBA,Pts+Rebs+Asts,26.5,29.61,11.74%
-Josh Giddey,@ POR,NBA,Assists,4.5,5.02,11.67%
-Luguentz Dort,@ POR,NBA1Q,Points,2.5,2.79,11.67%
-Grayson Allen,@ UTA,NBA,Pts+Rebs,14.5,16.19,11.64%
-Jusuf Nurkic,@ UTA,NBA,Pts+Asts,13.5,15.06,11.58%
-Max Strus,vs DEN,NBA,Rebounds,4.5,5.02,11.49%
-Max Strus,vs DEN,NBA1H,Pts+Rebs+Asts,13.5,11.96,-11.42%
-Grayson Allen,@ UTA,NBA1H,Pts+Rebs+Asts,8.5,9.47,11.42%
-Eric Gordon,@ UTA,NBA,Pts+Rebs+Asts,17.5,19.48,11.34%
-Jordan Clarkson,vs PHX,NBA,Points,23,20.40,-11.33%
-Jusuf Nurkic,@ UTA,NBA1H,Pts+Rebs+Asts,11.5,12.78,11.14%
-Kevin Huerter,@ DAL,NBA,Points,13.5,15.00,11.09%
-Alperen Sengun,@ LAL,NBA1H,Pts+Rebs+Asts,17.5,15.56,-11.08%
-Jalen Suggs,@ IND,NBA,Points,12,13.33,11.06%
-Jalen Suggs,@ IND,NBA1H,Points,6,6.66,11.06%
-Mikal Bridges,vs PHI,NBA2H,Pts+Rebs+Asts,16,14.24,-10.98%
-Nikola Jokic,@ CLE,NBA,Pts+Rebs+Asts,52.5,46.76,-10.94%
-Alperen Sengun,@ LAL,NBA,Rebs+Asts,14,15.53,10.92%
-Tyrese Haliburton,vs ORL,NBA,Steals,1.5,1.66,10.92%
-Jalen Suggs,@ IND,NBA,Rebounds,4,4.44,10.91%
-Devin Booker,@ UTA,NBA,Rebs+Asts,12.5,11.14,-10.89%
-Jakob Poeltl,vs DET,NBA1Q,Points,3.5,3.12,-10.88%
-Jalen Suggs,@ IND,NBA,Pts+Rebs+Asts,19.5,21.62,10.87%
-Cameron Johnson,vs PHI,NBA2H,Fantasy Score,14.5,16.08,10.87%
-Jalen Suggs,@ IND,NBA,Pts+Asts,15.5,17.18,10.86%
-Darius Garland,vs DEN,NBA1H,Points,12,10.70,-10.86%
-Ochai Agbaji,vs PHX,NBA,Steals,0.5,0.45,-10.83%
-Jabari Smith Jr.,@ LAL,NBA1H,Fantasy Score,12,13.30,10.82%
-Goga Bitadze,@ IND,NBA1Q,Points,2.5,2.23,-10.78%
-Dennis Schroder,vs DET,NBA,Fantasy Score,30.5,27.22,-10.77%
-Kevin Durant,@ UTA,NBA,Pts+Asts,34.5,30.79,-10.76%
-Ausar Thompson,@ TOR,NBA,Rebounds,9,8.04,-10.71%
-Anthony Davis,vs HOU,NBA1H,Points,11.5,10.27,-10.67%
-Shaedon Sharpe,vs OKC,NBA1Q,Points,5,4.47,-10.66%
-Aaron Gordon,@ CLE,NBA,Assists,4,3.58,-10.62%
-Obi Toppin,vs ORL,NBA,Pts+Rebs,15,16.59,10.60%
-Moritz Wagner,@ IND,NBA,Points,10.5,11.60,10.51%
-Jusuf Nurkic,@ UTA,NBA1H,Points,5.5,6.08,10.47%
-Keyonte George,vs PHX,NBA,Points,10,11.05,10.47%
-Keyonte George,vs PHX,NBA1H,Points,5,5.52,10.47%
-T.J. McConnell,vs ORL,NBA,Assists,4.5,4.03,-10.46%
-Fred VanVleet,@ LAL,NBA1Q,Points,4.5,4.97,10.39%
-Bennedict Mathurin,vs ORL,NBA,Fantasy Score,22.5,24.83,10.36%
-Tyrese Haliburton,vs ORL,NBA1H,Fantasy Score,25,22.41,-10.35%
-Lauri Markkanen,vs PHX,NBA,Pts+Rebs,32.5,35.86,10.33%
-D'Angelo Russell,vs HOU,NBA1Q,Points,4.5,4.04,-10.32%
-Pascal Siakam,vs DET,NBA,Rebounds,7,7.72,10.27%
-Kevin Durant,@ UTA,NBA,Pts+Rebs,37.5,33.65,-10.27%
-Devin Booker,@ UTA,NBA,Pts+Rebs+Asts,40.5,36.36,-10.23%
-Jarrett Allen,vs DEN,NBA,Pts+Asts,15.5,17.08,10.21%
-Jerami Grant,vs OKC,NBA,3-PT Made,2.5,2.76,10.21%
-Tyrese Haliburton,vs ORL,NBA,Points,23,20.66,-10.16%
-Goga Bitadze,@ IND,NBA,Rebounds,7,7.71,10.16%
-Jalen Williams,@ POR,NBA1H,Fantasy Score,14.5,15.97,10.12%
-Keyonte George,vs PHX,NBA,Pts+Asts,16.5,14.83,-10.12%
-Nikola Jokic,@ CLE,NBA,Free Throws Made,5.5,4.95,-10.08%
-Shai Gilgeous-Alexander,@ POR,NBA1H,Points,15.5,13.94,-10.06%
-Jordan Clarkson,vs PHX,NBA,Pts+Asts,28.5,25.63,-10.05%
-T.J. McConnell,vs ORL,NBA,Pts+Asts,12.5,11.25,-10.01%
-Paolo Banchero,@ IND,NBA,Rebounds,7.5,8.25,9.99%
-Cade Cunningham,@ TOR,NBA,Pts+Rebs+Asts,30.5,33.55,9.98%
-Buddy Hield,vs ORL,NBA,Pts+Rebs+Asts,19.5,21.45,9.97%
-Aaron Nesmith,vs ORL,NBA,Pts+Rebs,12.5,13.74,9.95%
-Devin Booker,@ UTA,NBA,Points,28,25.22,-9.93%
-Jarrett Allen,vs DEN,NBA1H,Pts+Rebs+Asts,12.5,13.74,9.90%
-Kevin Durant,@ UTA,NBA1H,Pts+Rebs+Asts,21.5,19.37,-9.90%
-Moritz Wagner,@ IND,NBA,Pts+Rebs+Asts,17.5,19.23,9.86%
-Max Strus,vs DEN,NBA,Pts+Rebs+Asts,26.5,23.92,-9.75%
-De'Anthony Melton,@ BKN,NBA2H,Pts+Rebs+Asts,12,10.84,-9.69%
-Michael Porter Jr.,@ CLE,NBA1H,Points,8.5,9.32,9.68%
-Skylar Mays,vs OKC,NBA1H,Pts+Rebs+Asts,13.5,14.81,9.67%
-Keegan Murray,@ DAL,NBA1H,Points,7.5,6.78,-9.66%
-John Collins,vs PHX,NBA1H,Points,7.5,6.78,-9.66%
-Shaedon Sharpe,vs OKC,NBA,Rebs+Asts,9.5,8.58,-9.64%
-Tyrese Haliburton,vs ORL,NBA,Pts+Rebs+Asts,39,35.27,-9.56%
-Tyrese Haliburton,vs ORL,NBA,Fantasy Score,49.5,44.82,-9.45%
-Chet Holmgren,@ POR,NBA,Pts+Asts,19.5,17.66,-9.45%
-Jayson Tatum,@ MEM,NBA,Points,26.5,24.00,-9.44%
-Jarrett Allen,vs DEN,NBA,Rebounds,9.5,10.39,9.38%
-Cade Cunningham,@ TOR,NBA1Q,Points,4.5,4.92,9.38%
-Buddy Hield,vs ORL,NBA,Turnovers,1.5,1.64,9.34%
-Jarrett Allen,vs DEN,NBA1H,Points,7,7.65,9.28%
-Dennis Schroder,vs DET,NBA1H,Fantasy Score,15,13.61,-9.28%
-Anthony Davis,vs HOU,NBA,Rebounds,12.5,13.66,9.26%
-Jalen Suggs,@ IND,NBA,3-PT Made,1.5,1.64,9.26%
-Scottie Barnes,vs DET,NBA,Assists,5,4.54,-9.23%
-Cade Cunningham,@ TOR,NBA,Pts+Rebs,24.5,26.75,9.20%
-Devin Booker,@ UTA,NBA,Rebounds,5,5.46,9.17%
-Jaren Jackson Jr.,vs BOS,NBA,Points,22.5,20.45,-9.12%
-Kevin Huerter,@ DAL,NBA,Rebounds,4,4.36,9.11%
-Fred VanVleet,@ LAL,NBA,Pts+Rebs,23,25.10,9.11%
-Pascal Siakam,vs DET,NBA1H,Points,11.5,10.46,-9.07%
-Jabari Smith Jr.,@ LAL,NBA,Steals,0.5,0.55,9.07%
-Myles Turner,vs ORL,NBA,Blks+Stls,2.5,2.73,9.03%
-Shai Gilgeous-Alexander,@ POR,NBA1H,Pts+Rebs+Asts,21.5,19.56,-9.01%
-Darius Garland,vs DEN,NBA,Points,23.5,21.39,-8.96%
-Domantas Sabonis,@ DAL,NBA1H,Points,11,10.02,-8.95%
-Jabari Smith Jr.,@ LAL,NBA1H,Points,5.5,5.99,8.94%
-Derrick White,@ MEM,NBA,Pts+Asts,18.5,16.86,-8.87%
-Kevin Huerter,@ DAL,NBA,Pts+Rebs+Asts,20.5,22.32,8.86%
-Kevin Durant,@ UTA,NBA,Pts+Rebs+Asts,42.5,38.74,-8.84%
-Fred VanVleet,@ LAL,NBA,Assists,7.5,6.84,-8.83%
-Kevin Huerter,@ DAL,NBA,Pts+Asts,16.5,17.95,8.80%
-Jusuf Nurkic,@ UTA,NBA,Pts+Rebs+Asts,23.5,25.56,8.77%
-OG Anunoby,vs DET,NBA,Fantasy Score,26.5,28.82,8.76%
-Kevin Durant,@ UTA,NBA,Rebs+Asts,12,13.05,8.75%
-Anthony Davis,vs HOU,NBA,Pts+Asts,25.5,23.28,-8.72%
-Tyrese Haliburton,vs ORL,NBA,Rebs+Asts,16,14.61,-8.71%
-Matisse Thybulle,vs OKC,NBA,Points,6.5,7.07,8.70%
-Anthony Davis,vs HOU,NBA,Points,22.5,20.55,-8.69%
-Keegan Murray,@ DAL,NBA,Pts+Asts,16.5,15.07,-8.69%
-Shai Gilgeous-Alexander,@ POR,NBA,Points,30.5,27.88,-8.58%
-Isaiah Stewart,@ TOR,NBA,Pts+Asts,12.5,13.57,8.53%
-Domantas Sabonis,@ DAL,NBA,Rebs+Asts,20.5,22.24,8.49%
-Cade Cunningham,@ TOR,NBA,Fantasy Score,34.5,37.42,8.48%
-Goga Bitadze,@ IND,NBA1H,Pts+Rebs+Asts,8.5,9.22,8.46%
-Buddy Hield,vs ORL,NBA,Pts+Rebs,17.5,18.97,8.39%
-Chet Holmgren,@ POR,NBA1H,Points,8.5,7.79,-8.39%
-Shaedon Sharpe,vs OKC,NBA,Points,19.5,17.87,-8.37%
-Shai Gilgeous-Alexander,@ POR,NBA,Pts+Asts,36.5,33.45,-8.35%
-Evan Mobley,vs DEN,NBA1H,Pts+Rebs+Asts,16.5,15.13,-8.32%
-Jalen Williams,@ POR,NBA,Fantasy Score,29.5,31.93,8.25%
-Tyrese Haliburton,vs ORL,NBA,Pts+Rebs,27.5,25.24,-8.22%
-Cade Cunningham,@ TOR,NBA1H,Pts+Rebs+Asts,15.5,16.77,8.21%
-De'Aaron Fox,@ DAL,NBA1H,Points,14.5,13.31,-8.20%
-Dennis Schroder,vs DET,NBA,Rebs+Asts,9,8.27,-8.16%
-Ochai Agbaji,vs PHX,NBA,Pts+Asts,10.5,11.35,8.13%
-Reggie Jackson,@ CLE,NBA1H,Pts+Rebs+Asts,9.5,10.27,8.08%
-Shai Gilgeous-Alexander,@ POR,NBA,Pts+Rebs,36.5,33.56,-8.07%
-LeBron James,vs HOU,NBA1H,Points,12.5,11.50,-8.03%
-Derrick White,@ MEM,NBA,Points,13.5,12.42,-7.97%
-Jalen Williams,@ POR,NBA1H,Points,8.5,7.82,-7.97%
-Ausar Thompson,@ TOR,NBA,Pts+Asts,15.5,16.73,7.97%
-Jayson Tatum,@ MEM,NBA,Pts+Asts,30.5,28.08,-7.95%
-Shai Gilgeous-Alexander,@ POR,NBA,Pts+Rebs+Asts,42.5,39.13,-7.94%
-Max Strus,vs DEN,NBA1H,Fantasy Score,15.5,14.27,-7.94%
-Buddy Hield,vs ORL,NBA1H,Points,6.5,7.01,7.89%
-Jaren Jackson Jr.,vs BOS,NBA1H,Pts+Rebs+Asts,16,14.74,-7.87%
-LeBron James,vs HOU,NBA1H,Pts+Rebs+Asts,20.5,18.89,-7.85%
-Fred VanVleet,@ LAL,NBA1H,Fantasy Score,19,20.48,7.79%
-Myles Turner,vs ORL,NBA,Free Throws Made,3.5,3.23,-7.78%
-Grayson Allen,@ UTA,NBA,Pts+Asts,13.5,14.54,7.71%
-Jayson Tatum,@ MEM,NBA,Pts+Rebs+Asts,40.5,37.38,-7.70%
-Jayson Tatum,@ MEM,NBA1H,Points,13,12.00,-7.70%
-Jalen Suggs,@ IND,NBA,Pts+Rebs,16.5,17.76,7.66%
-Darius Garland,vs DEN,NBA,Pts+Rebs,26.5,24.49,-7.60%
-T.J. McConnell,vs ORL,NBA,Rebs+Asts,7.5,6.93,-7.58%
-Kevin Huerter,@ DAL,NBA,Pts+Rebs,18,19.36,7.56%
-Dennis Schroder,vs DET,NBA1H,Points,7.5,6.93,-7.56%
-Devin Booker,@ UTA,NBA,Blks+Stls,1.5,1.39,-7.55%
-Paolo Banchero,@ IND,NBA1Q,Points,5.5,5.09,-7.54%
-Darius Garland,vs DEN,NBA1H,Pts+Rebs+Asts,17.5,16.18,-7.53%
-Shaedon Sharpe,vs OKC,NBA,Rebounds,5.5,5.91,7.52%
-LeBron James,vs HOU,NBA,Pts+Asts,31.5,29.14,-7.48%
-Evan Mobley,vs DEN,NBA,Blks+Stls,2.5,2.31,-7.42%
-Fred VanVleet,@ LAL,NBA,Points,18.5,19.87,7.40%
-Eric Gordon,@ UTA,NBA,Pts+Asts,15.5,16.64,7.37%
-Luka Doncic,vs SAC,NBA1H,Points,15.5,14.36,-7.34%
-Ochai Agbaji,vs PHX,NBA1H,Points,4.5,4.83,7.33%
-Luguentz Dort,@ POR,NBA,Pts+Rebs,14.5,15.56,7.31%
-Isaiah Stewart,@ TOR,NBA1H,Fantasy Score,12.5,13.41,7.28%
-Skylar Mays,vs OKC,NBA,Assists,8.5,9.12,7.27%
-Jusuf Nurkic,@ UTA,NBA,Rebs+Asts,12.5,13.41,7.27%
-Kristaps Porzingis,@ MEM,NBA,Pts+Rebs+Asts,28.5,30.56,7.22%
-Dennis Schroder,vs DET,NBA,Pts+Asts,20.5,19.02,-7.21%
-Shaedon Sharpe,vs OKC,NBA,Pts+Rebs+Asts,28.5,26.45,-7.18%
-Shai Gilgeous-Alexander,@ POR,NBA,Assists,6,5.57,-7.17%
-Kyrie Irving,vs SAC,NBA1Q,Points,6.5,6.03,-7.17%
-Grayson Allen,@ UTA,NBA1H,Points,5.5,5.89,7.16%
-Toumani Camara,vs OKC,NBA,Blks+Stls,1.5,1.39,-7.14%
-Luka Doncic,vs SAC,NBA1H,Pts+Rebs+Asts,24.5,22.76,-7.10%
-Ausar Thompson,@ TOR,NBA,Rebs+Asts,12.5,11.61,-7.09%
-Darius Garland,vs DEN,NBA,Pts+Asts,31.5,29.27,-7.07%
-Jaren Jackson Jr.,vs BOS,NBA1H,Points,11,10.22,-7.05%
-Isaiah Stewart,@ TOR,NBA,Points,11,11.77,7.01%
-Isaiah Stewart,@ TOR,NBA1H,Points,5.5,5.89,7.01%
-Keegan Murray,@ DAL,NBA,Pts+Rebs+Asts,23.5,21.86,-6.99%
-Mikal Bridges,vs PHI,NBA2H,Fantasy Score,18.5,17.21,-6.97%
-T.J. McConnell,vs ORL,NBA,Turnovers,1.5,1.60,6.95%
-Shai Gilgeous-Alexander,@ POR,NBA,Fantasy Score,50.5,47.00,-6.93%
-Cade Cunningham,@ TOR,NBA1H,Fantasy Score,17.5,18.71,6.93%
-Domantas Sabonis,@ DAL,NBA1H,Fantasy Score,23.5,25.12,6.90%
-De'Anthony Melton,@ BKN,NBA2H,Fantasy Score,13.5,14.43,6.86%
-Michael Porter Jr.,@ CLE,NBA,Rebounds,7,6.53,-6.78%
-OG Anunoby,vs DET,NBA1H,Fantasy Score,13.5,14.41,6.75%
-Derrick White,@ MEM,NBA1H,Pts+Rebs+Asts,11.5,10.72,-6.75%
-LeBron James,vs HOU,NBA,Pts+Rebs+Asts,40.5,37.78,-6.71%
-Aaron Nesmith,vs ORL,NBA,3-PT Made,1.5,1.40,-6.70%
-Pascal Siakam,vs DET,NBA,Rebs+Asts,12,12.80,6.63%
-Devin Booker,@ UTA,NBA1H,Points,13.5,12.61,-6.60%
-De'Aaron Fox,@ DAL,NBA,Points,28.5,26.62,-6.59%
-Michael Porter Jr.,@ CLE,NBA,Points,17.5,18.65,6.55%
-Keegan Murray,@ DAL,NBA,Points,14.5,13.55,-6.55%
-John Collins,vs PHX,NBA,Points,14.5,13.55,-6.54%
-Buddy Hield,vs ORL,NBA,Pts+Asts,15.5,16.50,6.46%
-Max Strus,vs DEN,NBA,Fantasy Score,30.5,28.54,-6.43%
-Jaren Jackson Jr.,vs BOS,NBA,Pts+Rebs+Asts,31.5,29.48,-6.41%
-Paolo Banchero,@ IND,NBA,Pts+Asts,25.5,23.88,-6.33%
-Domantas Sabonis,@ DAL,NBA,Pts+Rebs,33.5,35.61,6.30%
-Kevin Huerter,@ DAL,NBA1H,Pts+Rebs+Asts,10.5,11.16,6.27%
-Jayson Tatum,@ MEM,NBA,Pts+Rebs,35.5,33.30,-6.19%
-Darius Garland,vs DEN,NBA,Pts+Rebs+Asts,34.5,32.36,-6.19%
-Derrick White,@ MEM,NBA,Rebs+Asts,8.5,9.02,6.16%
-Cam Reddish,vs HOU,NBA,Pts+Asts,11.5,12.21,6.16%
-LeBron James,vs HOU,NBA,Points,24.5,22.99,-6.15%
-Luka Doncic,vs SAC,NBA,Pts+Rebs+Asts,48.5,45.52,-6.14%
-Tyrese Haliburton,vs ORL,NBA1Q,Points,5.5,5.17,-6.08%
-Kevin Durant,@ UTA,NBA,Rebounds,7.5,7.95,6.05%
-Shai Gilgeous-Alexander,@ POR,NBA1H,Fantasy Score,25,23.50,-6.00%
-Aaron Nesmith,vs ORL,NBA1H,Points,4.5,4.77,5.96%
-Shaedon Sharpe,vs OKC,NBA1H,Points,9.5,8.93,-5.96%
-Franz Wagner,@ IND,NBA,Free Throws Made,3.5,3.29,-5.91%
-Lauri Markkanen,vs PHX,NBA,Blks+Stls,1.5,1.59,5.89%
-Luka Doncic,vs SAC,NBA,Points,30.5,28.72,-5.82%
-Dennis Schroder,vs DET,NBA,Pts+Rebs+Asts,23.5,22.13,-5.82%
-Kristaps Porzingis,@ MEM,NBA,Pts+Rebs,26.5,28.04,5.80%
-LeBron James,vs HOU,NBA1H,Fantasy Score,23.5,22.14,-5.79%
-Domantas Sabonis,@ DAL,NBA,Fantasy Score,47.5,50.24,5.78%
-Goga Bitadze,@ IND,NBA,Rebs+Asts,9,9.52,5.73%
-D'Angelo Russell,vs HOU,NBA,Fantasy Score,29.5,31.18,5.70%
-Ochai Agbaji,vs PHX,NBA,Pts+Rebs,12.5,13.21,5.69%
-Devin Booker,@ UTA,NBA,Pts+Rebs,32.5,30.68,-5.61%
-Chet Holmgren,@ POR,NBA,Points,16.5,15.57,-5.61%
-Cameron Johnson,vs PHI,NBA2H,Points,8.5,8.98,5.59%
-LeBron James,vs HOU,NBA,Pts+Rebs,33.5,31.63,-5.58%
-OG Anunoby,vs DET,NBA1Q,Points,3.5,3.69,5.53%
-Pascal Siakam,vs DET,NBA,Pts+Asts,27.5,25.99,-5.49%
-Moritz Wagner,@ IND,NBA1H,Points,5.5,5.80,5.49%
-Obi Toppin,vs ORL,NBA1H,Points,6,5.67,-5.48%
-Myles Turner,vs ORL,NBA,Points,17.5,16.54,-5.46%
-Eric Gordon,@ UTA,NBA,Pts+Rebs,15.5,16.34,5.42%
-Keegan Murray,@ DAL,NBA,Pts+Rebs,21.5,20.34,-5.39%
-Kristaps Porzingis,@ MEM,NBA1H,Pts+Rebs+Asts,14.5,15.28,5.38%
-Kyrie Irving,vs SAC,NBA,Rebounds,5,5.27,5.34%
-Reggie Jackson,@ CLE,NBA,Pts+Rebs+Asts,19.5,20.53,5.31%
-D'Angelo Russell,vs HOU,NBA1H,Pts+Rebs+Asts,13.5,12.78,-5.30%
-Ausar Thompson,@ TOR,NBA,Points,12.5,13.16,5.26%
-Moritz Wagner,@ IND,NBA,Pts+Asts,12.5,13.15,5.23%
-Cam Reddish,vs HOU,NBA1H,Points,5.5,5.21,-5.19%
-Jalen Williams,@ POR,NBA,Points,16.5,15.65,-5.18%
-D'Angelo Russell,vs HOU,NBA,Pts+Rebs,18.5,19.46,5.18%
-Scottie Barnes,vs DET,NBA,Rebounds,7.5,7.11,-5.17%
-Luka Doncic,vs SAC,NBA,Pts+Rebs,39.5,37.47,-5.14%
-Jalen Green,@ LAL,NBA,Pts+Rebs,23.5,24.70,5.12%
-Anthony Davis,vs HOU,NBA,Fantasy Score,50,47.45,-5.11%
-Anthony Davis,vs HOU,NBA1H,Fantasy Score,25,23.72,-5.11%
-Jerami Grant,vs OKC,NBA,Pts+Rebs,27.5,28.91,5.11%
-Reggie Jackson,@ CLE,NBA1H,Fantasy Score,11.5,12.09,5.11%
-Josh Giddey,@ POR,NBA,Pts+Rebs,19.5,20.48,5.04%
-OG Anunoby,vs DET,NBA,Pts+Rebs,18.5,19.43,5.03%
-Fred VanVleet,@ LAL,NBA,Fantasy Score,39,40.96,5.03%
-Darius Garland,vs DEN,NBA,Assists,7.5,7.88,5.02%
-Keegan Murray,@ DAL,NBA,Fantasy Score,29,27.55,-4.99%
-Keegan Murray,@ DAL,NBA1H,Fantasy Score,14.5,13.78,-4.99%
-Keegan Murray,@ DAL,NBA1H,Pts+Rebs+Asts,11.5,10.93,-4.96%
-Pascal Siakam,vs DET,NBA,Points,22,20.91,-4.94%
-Desmond Bane,vs BOS,NBA,Points,26.5,25.20,-4.91%
-Jaren Jackson Jr.,vs BOS,NBA,Pts+Rebs,29.5,28.06,-4.89%
-Josh Giddey,@ POR,NBA,Pts+Asts,17.5,18.35,4.88%
-Domantas Sabonis,@ DAL,NBA,Assists,7,6.66,-4.85%
-Jalen Suggs,@ IND,NBA1Q,Points,3.5,3.33,-4.81%
-Josh Giddey,@ POR,NBA1Q,Points,3.5,3.33,-4.79%
-LeBron James,vs HOU,NBA,Fantasy Score,46.5,44.28,-4.78%
-Max Strus,vs DEN,NBA,Points,16.5,15.72,-4.73%
-Luguentz Dort,@ POR,NBA,Pts+Rebs+Asts,16.5,17.28,4.72%
-Fred VanVleet,@ LAL,NBA,Pts+Rebs+Asts,30.5,31.93,4.70%
-Derrick White,@ MEM,NBA,Pts+Rebs+Asts,22.5,21.45,-4.68%
-Jerami Grant,vs OKC,NBA,Turnovers,2.5,2.38,-4.62%
-Cam Reddish,vs HOU,NBA,Fantasy Score,21,20.03,-4.60%
-Cam Reddish,vs HOU,NBA1H,Fantasy Score,10.5,10.02,-4.60%
-De'Aaron Fox,@ DAL,NBA,Free Throws Made,5,4.77,-4.59%
-LeBron James,vs HOU,NBA,Rebs+Asts,15.5,14.79,-4.59%
-Fred VanVleet,@ LAL,NBA1H,Points,9.5,9.93,4.58%
-Desmond Bane,vs BOS,NBA,Pts+Asts,32.5,31.02,-4.55%
-Jaylen Brown,@ MEM,NBA,Pts+Rebs,27.5,28.75,4.53%
-LeBron James,vs HOU,NBA1Q,Points,5.5,5.75,4.51%
-Jaylen Brown,@ MEM,NBA,Pts+Rebs+Asts,30.5,31.87,4.50%
-Keegan Murray,@ DAL,NBA,Rebounds,6.5,6.79,4.49%
-Luka Doncic,vs SAC,NBA,Pts+Asts,38.5,36.77,-4.48%
-Cameron Johnson,vs PHI,NBA2H,Pts+Rebs+Asts,12.5,13.06,4.48%
-Cade Cunningham,@ TOR,NBA,Assists,6.5,6.79,4.47%
-Skylar Mays,vs OKC,NBA,Rebs+Asts,12.5,13.06,4.47%
-Jerami Grant,vs OKC,NBA,Pts+Rebs+Asts,30.5,31.86,4.46%
-Derrick White,@ MEM,NBA1H,Points,6.5,6.21,-4.43%
-Jalen Green,@ LAL,NBA,Pts+Asts,22.5,23.49,4.38%
-Domantas Sabonis,@ DAL,NBA,Pts+Rebs+Asts,40.5,42.27,4.38%
-Nikola Jokic,@ CLE,NBA,Assists,9,9.39,4.37%
-D'Angelo Russell,vs HOU,NBA,Pts+Rebs+Asts,24.5,25.57,4.37%
-Dennis Schroder,vs DET,NBA,Points,14.5,13.87,-4.37%
-Cam Reddish,vs HOU,NBA1Q,Points,2.5,2.61,4.29%
-Luka Doncic,vs SAC,NBA1Q,Points,7.5,7.18,-4.25%
-Franz Wagner,@ IND,NBA1H,Pts+Rebs+Asts,13.5,14.07,4.19%
-Jalen Green,@ LAL,NBA,Rebs+Asts,7.5,7.81,4.18%
-D'Angelo Russell,vs HOU,NBA,Points,15.5,16.14,4.15%
-Josh Giddey,@ POR,NBA,Pts+Rebs+Asts,24.5,25.51,4.11%
-Reggie Jackson,@ CLE,NBA,Points,13.5,12.95,-4.08%
-Tyrese Haliburton,vs ORL,NBA,Blocked Shots,0.5,0.48,-4.07%
-Lauri Markkanen,vs PHX,NBA1H,Points,11.5,11.97,4.07%
-OG Anunoby,vs DET,NBA,Pts+Rebs+Asts,20.5,21.33,4.03%
-Luka Doncic,vs SAC,NBA,Rebs+Asts,17.5,16.80,-4.03%
-Cade Cunningham,@ TOR,NBA,Points,20.5,19.69,-3.95%
-D'Angelo Russell,vs HOU,NBA1H,Fantasy Score,15,15.59,3.94%
-Buddy Hield,vs ORL,NBA,Points,13.5,14.03,3.89%
-Evan Mobley,vs DEN,NBA,Pts+Asts,21.5,20.67,-3.85%
-Eric Gordon,@ UTA,NBA1H,Points,6.5,6.75,3.83%
-Evan Mobley,vs DEN,NBA1H,Points,8.5,8.82,3.82%
-Dennis Schroder,vs DET,NBA1H,Pts+Rebs+Asts,11.5,11.07,-3.77%
-T.J. McConnell,vs ORL,NBA,Points,7.5,7.22,-3.74%
-Nikola Jokic,@ CLE,NBA,Rebounds,13,13.49,3.73%
-Jalen Green,@ LAL,NBA,Pts+Rebs+Asts,27,28.00,3.71%
-Jalen Green,@ LAL,NBA1H,Pts+Rebs+Asts,13.5,14.00,3.71%
-Pascal Siakam,vs DET,NBA1H,Pts+Rebs+Asts,17.5,16.85,-3.69%
-De'Aaron Fox,@ DAL,NBA,Pts+Asts,34.5,33.25,-3.63%
-John Collins,vs PHX,NBA,Rebounds,9,9.33,3.63%
-Obi Toppin,vs ORL,NBA1H,Fantasy Score,10.5,10.88,3.61%
-T.J. McConnell,vs ORL,NBA,Pts+Rebs,10.5,10.12,-3.60%
-Michael Porter Jr.,@ CLE,NBA1Q,Points,4.5,4.66,3.59%
-Eric Gordon,@ UTA,NBA1Q,Points,3.5,3.37,-3.59%
-Max Strus,vs DEN,NBA,Pts+Rebs,21.5,20.74,-3.55%
-Josh Giddey,@ POR,NBA,Fantasy Score,29,30.03,3.54%
-Josh Giddey,@ POR,NBA1H,Fantasy Score,14.5,15.01,3.54%
-Chet Holmgren,@ POR,NBA1H,Fantasy Score,17.5,18.12,3.54%
-De'Aaron Fox,@ DAL,NBA,Pts+Rebs,33.5,32.32,-3.52%
-D'Angelo Russell,vs HOU,NBA,Pts+Asts,21.5,22.25,3.50%
-Pascal Siakam,vs DET,NBA1H,Fantasy Score,19.5,20.17,3.45%
-Obi Toppin,vs ORL,NBA,Pts+Asts,12.5,12.92,3.33%
-Keegan Murray,@ DAL,NBA1Q,Points,3.5,3.39,-3.21%
-Myles Turner,vs ORL,NBA,Fantasy Score,34.5,35.59,3.16%
-Shai Gilgeous-Alexander,@ POR,NBA,Rebounds,5.5,5.67,3.15%
-Jaylen Brown,@ MEM,NBA,Pts+Asts,25.5,24.71,-3.12%
-Obi Toppin,vs ORL,NBA,Points,11,11.34,3.12%
-Desmond Bane,vs BOS,NBA1H,Points,13,12.60,-3.08%
-Reggie Jackson,@ CLE,NBA,Pts+Rebs,15.5,15.98,3.07%
-Jalen Green,@ LAL,NBA,Fantasy Score,30,30.91,3.04%
-Jalen Green,@ LAL,NBA1H,Fantasy Score,15,15.46,3.04%
-Keegan Murray,@ DAL,NBA,3-PT Made,2.5,2.42,-3.03%
-Fred VanVleet,@ LAL,NBA1H,Pts+Rebs+Asts,15.5,15.97,3.01%
-Myles Turner,vs ORL,NBA,Pts+Asts,18.5,17.95,-2.96%
-Jalen Suggs,@ IND,NBA1H,Pts+Rebs+Asts,10.5,10.81,2.95%
-Pascal Siakam,vs DET,NBA,Pts+Rebs,29.5,28.63,-2.94%
-Domantas Sabonis,@ DAL,NBA,Pts+Asts,27.5,26.69,-2.94%
-Shaedon Sharpe,vs OKC,NBA,Pts+Rebs,24.5,23.78,-2.93%
-Luka Doncic,vs SAC,NBA,Rebounds,8.5,8.75,2.90%
-Dennis Schroder,vs DET,NBA,Pts+Rebs,16.5,16.98,2.89%
-Reggie Jackson,@ CLE,NBA,Fantasy Score,23.5,24.17,2.87%
-Jaylen Brown,@ MEM,NBA1H,Pts+Rebs+Asts,15.5,15.94,2.82%
-Jalen Smith,vs ORL,NBA,Pts+Rebs,15.5,15.94,2.82%
-Derrick White,@ MEM,NBA,Pts+Rebs,17.5,17.01,-2.78%
-Jerami Grant,vs OKC,NBA1H,Pts+Rebs+Asts,15.5,15.93,2.78%
-Kristaps Porzingis,@ MEM,NBA,Points,19.5,18.96,-2.77%
-Jaylen Brown,@ MEM,NBA1H,Points,10.5,10.79,2.75%
-Darius Garland,vs DEN,NBA1Q,Points,5.5,5.35,-2.75%
-Michael Porter Jr.,@ CLE,NBA,Pts+Rebs,24.5,25.17,2.74%
-Alperen Sengun,@ LAL,NBA,Pts+Rebs+Asts,32,31.12,-2.74%
-Jalen Williams,@ POR,NBA,Pts+Rebs+Asts,24.5,25.17,2.73%
-Lauri Markkanen,vs PHX,NBA,Pts+Asts,25.5,26.19,2.70%
-Myles Turner,vs ORL,NBA1H,Points,8.5,8.27,-2.68%
-Jerami Grant,vs OKC,NBA1Q,Points,5.5,5.65,2.66%
-Evan Mobley,vs DEN,NBA,Fantasy Score,39.5,38.49,-2.55%
-Josh Giddey,@ POR,NBA1H,Points,6.5,6.66,2.54%
-Alperen Sengun,@ LAL,NBA,Free Throws Made,2.5,2.56,2.54%
-Goga Bitadze,@ IND,NBA,Fantasy Score,26,25.35,-2.52%
-Goga Bitadze,@ IND,NBA1H,Fantasy Score,13,12.67,-2.52%
-Michael Porter Jr.,@ CLE,NBA,Pts+Asts,19.5,19.99,2.51%
-Grayson Allen,@ UTA,NBA,Points,11.5,11.79,2.50%
-Jalen Smith,vs ORL,NBA,Pts+Rebs+Asts,16.5,16.90,2.44%
-De'Aaron Fox,@ DAL,NBA1Q,Points,6.5,6.66,2.39%
-Luguentz Dort,@ POR,NBA,Rebounds,4.5,4.39,-2.38%
-Joel Embiid,@ BKN,NBA2H,Pts+Rebs+Asts,23.5,24.06,2.36%
-Franz Wagner,@ IND,NBA1H,Points,9.5,9.72,2.32%
-Franz Wagner,@ IND,NBA,Pts+Rebs+Asts,27.5,28.13,2.30%
-Pascal Siakam,vs DET,NBA,Pts+Rebs+Asts,34.5,33.71,-2.29%
-Domantas Sabonis,@ DAL,NBA,Points,20.5,20.03,-2.29%
-Keyonte George,vs PHX,NBA1H,Pts+Rebs+Asts,9.5,9.71,2.25%
-Shai Gilgeous-Alexander,@ POR,NBA,Rebs+Asts,11.5,11.24,-2.23%
-Joel Embiid,@ BKN,NBA2H,Points,16,15.64,-2.23%
-Goga Bitadze,@ IND,NBA,Pts+Asts,10.5,10.73,2.17%
-Pascal Siakam,vs DET,NBA,Fantasy Score,39.5,40.34,2.14%
-Paolo Banchero,@ IND,NBA,Pts+Rebs,28,28.59,2.11%
-Chet Holmgren,@ POR,NBA,Fantasy Score,35.5,36.24,2.08%
-Jayson Tatum,@ MEM,NBA,Rebounds,9.5,9.31,-2.05%
-Josh Giddey,@ POR,NBA1H,Pts+Rebs+Asts,12.5,12.75,2.03%
-Jaylen Brown,@ MEM,NBA,Turnovers,2.5,2.55,2.00%
-De'Aaron Fox,@ DAL,NBA,Assists,6.5,6.63,1.97%
-Evan Mobley,vs DEN,NBA1Q,Points,4.5,4.41,-1.94%
-Jayson Tatum,@ MEM,NBA,Assists,4,4.08,1.93%
-Paolo Banchero,@ IND,NBA,Fantasy Score,36,36.69,1.93%
-Paolo Banchero,@ IND,NBA1H,Fantasy Score,18,18.35,1.93%
-John Collins,vs PHX,NBA1H,Pts+Rebs+Asts,12,12.23,1.91%
-OG Anunoby,vs DET,NBA,Points,14.5,14.77,1.89%
-Lauri Markkanen,vs PHX,NBA,Points,23.5,23.94,1.85%
-D'Angelo Russell,vs HOU,NBA,Assists,6,6.11,1.85%
-Keegan Murray,@ DAL,NBA,Blks+Stls,1.5,1.53,1.82%
-Franz Wagner,@ IND,NBA,Pts+Asts,22.5,22.91,1.81%
-Jerami Grant,vs OKC,NBA,Points,23,22.59,-1.80%
-Jerami Grant,vs OKC,NBA1H,Points,11.5,11.29,-1.80%
-Michael Porter Jr.,@ CLE,NBA1H,Pts+Rebs+Asts,13.5,13.26,-1.79%
-Alperen Sengun,@ LAL,NBA,Fantasy Score,38,38.67,1.77%
-Alperen Sengun,@ LAL,NBA1H,Fantasy Score,19,19.34,1.77%
-Max Strus,vs DEN,NBA1H,Points,8,7.86,-1.75%
-Paolo Banchero,@ IND,NBA,Points,20,20.34,1.71%
-Paolo Banchero,@ IND,NBA1H,Points,10,10.17,1.71%
-Myles Turner,vs ORL,NBA1H,Fantasy Score,17.5,17.80,1.69%
-Domantas Sabonis,@ DAL,NBA1H,Pts+Rebs+Asts,21.5,21.14,-1.69%
-Nikola Jokic,@ CLE,NBA,Rebs+Asts,22.5,22.88,1.68%
-Pascal Siakam,vs DET,NBA,Blks+Stls,1.5,1.52,1.65%
-Luguentz Dort,@ POR,NBA1H,Pts+Rebs+Asts,8.5,8.64,1.64%
-LeBron James,vs HOU,NBA,Rebounds,8.5,8.64,1.63%
-OG Anunoby,vs DET,NBA1H,Pts+Rebs+Asts,10.5,10.66,1.56%
-Cade Cunningham,@ TOR,NBA1H,Points,10,9.84,-1.55%
-Anthony Davis,vs HOU,NBA,Pts+Rebs+Asts,37.5,36.93,-1.51%
-OG Anunoby,vs DET,NBA1H,Points,7.5,7.39,-1.51%
-Jalen Smith,vs ORL,NBA,Points,9,9.13,1.50%
-Jalen Smith,vs ORL,NBA1H,Points,4.5,4.57,1.50%
-Jalen Williams,@ POR,NBA,Pts+Asts,19.5,19.21,-1.49%
-Derrick White,@ MEM,NBA,Assists,4.5,4.43,-1.45%
-Jrue Holiday,@ MEM,NBA,Rebounds,6,5.91,-1.45%
-Jordan Clarkson,vs PHX,NBA1H,Pts+Rebs+Asts,15.5,15.72,1.43%
-Ausar Thompson,@ TOR,NBA,Pts+Rebs,21.5,21.19,-1.42%
-Shai Gilgeous-Alexander,@ POR,NBA,Free Throws Made,8,7.89,-1.41%
-De'Aaron Fox,@ DAL,NBA,Pts+Rebs+Asts,39.5,38.95,-1.40%
-Paolo Banchero,@ IND,NBA,Free Throws Made,5,5.07,1.33%
-Evan Mobley,vs DEN,NBA1H,Fantasy Score,19.5,19.25,-1.30%
-Tobias Harris,@ BKN,NBA2H,Fantasy Score,15.5,15.70,1.28%
-Josh Giddey,@ POR,NBA,Points,13.5,13.33,-1.26%
-Myles Turner,vs ORL,NBA1H,Pts+Rebs+Asts,13.5,13.33,-1.25%
-Domantas Sabonis,@ DAL,NBA,Blks+Stls,1.5,1.52,1.24%
-Kyrie Irving,vs SAC,NBA,Blks+Stls,1.5,1.48,-1.22%
-Ausar Thompson,@ TOR,NBA1H,Points,6.5,6.58,1.21%
-Lonnie Walker IV,vs PHI,NBA2H,Points,6.5,6.42,-1.20%
-Desmond Bane,vs BOS,NBA,Pts+Rebs+Asts,37.5,37.08,-1.13%
-Paolo Banchero,@ IND,NBA,Pts+Rebs+Asts,32.5,32.13,-1.13%
-Jordan Clarkson,vs PHX,NBA,Pts+Rebs,26.5,26.21,-1.11%
-Ausar Thompson,@ TOR,NBA,Pts+Rebs+Asts,24.5,24.77,1.11%
-OG Anunoby,vs DET,NBA,Pts+Asts,16.5,16.67,1.03%
-Evan Mobley,vs DEN,NBA,Pts+Rebs,27.5,27.23,-0.98%
-Michael Porter Jr.,@ CLE,NBA1H,Fantasy Score,15.5,15.35,-0.98%
-Myles Turner,vs ORL,NBA,Pts+Rebs,25.5,25.26,-0.96%
-Jalen Green,@ LAL,NBA,Points,20,20.19,0.94%
-Jalen Green,@ LAL,NBA1H,Points,10,10.09,0.94%
-Chet Holmgren,@ POR,NBA,Pts+Rebs+Asts,28,27.74,-0.94%
-Chet Holmgren,@ POR,NBA1H,Pts+Rebs+Asts,14,13.87,-0.94%
-Obi Toppin,vs ORL,NBA1H,Pts+Rebs+Asts,9,9.08,0.91%
-Ausar Thompson,@ TOR,NBA1H,Pts+Rebs+Asts,12.5,12.39,-0.91%
-D'Angelo Russell,vs HOU,NBA1H,Points,8,8.07,0.89%
-Keyonte George,vs PHX,NBA,3-PT Made,1.5,1.49,-0.89%
-Jayson Tatum,@ MEM,NBA,Rebs+Asts,13.5,13.38,-0.87%
-Anthony Davis,vs HOU,NBA,Pts+Rebs,34.5,34.20,-0.86%
-Evan Mobley,vs DEN,NBA,Points,17.5,17.65,0.86%
-Evan Mobley,vs DEN,NBA,Rebounds,9.5,9.58,0.86%
-Goga Bitadze,@ IND,NBA,Points,9,8.92,-0.86%
-Goga Bitadze,@ IND,NBA1H,Points,4.5,4.46,-0.86%
-Dennis Schroder,vs DET,NBA,3-PT Made,1.5,1.51,0.84%
-Evan Mobley,vs DEN,NBA,Rebs+Asts,12.5,12.60,0.83%
-Evan Mobley,vs DEN,NBA,Pts+Rebs+Asts,30.5,30.25,-0.81%
-Goga Bitadze,@ IND,NBA,Pts+Rebs,16.5,16.63,0.81%
-Desmond Bane,vs BOS,NBA,Pts+Rebs,31.5,31.26,-0.78%
-Fred VanVleet,@ LAL,NBA,Pts+Asts,26.5,26.71,0.78%
-Franz Wagner,@ IND,NBA,Pts+Rebs,24.5,24.67,0.67%
-Jalen Williams,@ POR,NBA1H,Pts+Rebs+Asts,12.5,12.58,0.67%
-Cam Reddish,vs HOU,NBA,Points,10.5,10.43,-0.67%
-Michael Porter Jr.,@ CLE,NBA,Fantasy Score,30.5,30.70,0.64%
-Joel Embiid,@ BKN,NBA2H,Fantasy Score,27.5,27.67,0.62%
-Myles Turner,vs ORL,NBA,Pts+Rebs+Asts,26.5,26.66,0.61%
-Luka Doncic,vs SAC,NBA,Assists,8,8.05,0.61%
-Chet Holmgren,@ POR,NBA,Pts+Rebs,25.5,25.66,0.61%
-De'Aaron Fox,@ DAL,NBA1H,Fantasy Score,22.5,22.64,0.60%
-Jalen Smith,vs ORL,NBA1H,Pts+Rebs+Asts,8.5,8.45,-0.57%
-De'Aaron Fox,@ DAL,NBA,Fantasy Score,45.5,45.27,-0.50%
-Jalen Williams,@ POR,NBA,Pts+Rebs,21.5,21.60,0.49%
-Michael Porter Jr.,@ CLE,NBA,Blocked Shots,0.5,0.50,0.47%
-Darius Garland,vs DEN,NBA,Fantasy Score,38,38.17,0.45%
-Darius Garland,vs DEN,NBA1H,Fantasy Score,19,19.08,0.45%
-Paolo Banchero,@ IND,NBA1H,Pts+Rebs+Asts,16,16.07,0.42%
-Alperen Sengun,@ LAL,NBA,Pts+Rebs,27.5,27.39,-0.40%
-Reggie Jackson,@ CLE,NBA1H,Points,6.5,6.47,-0.40%
-Keyonte George,vs PHX,NBA,Pts+Rebs+Asts,19.5,19.43,-0.37%
-Jaylen Brown,@ MEM,NBA,Points,21.5,21.58,0.36%
-Goga Bitadze,@ IND,NBA,Pts+Rebs+Asts,18.5,18.44,-0.33%
-Franz Wagner,@ IND,NBA,Points,19.5,19.44,-0.30%
-Kristaps Porzingis,@ MEM,NBA1H,Points,9.5,9.48,-0.22%
-Desmond Bane,vs BOS,NBA1H,Pts+Rebs+Asts,18.5,18.54,0.21%
-Dillon Brooks,@ LAL,NBA,Rebounds,4,4.01,0.21%
-Lonnie Walker IV,vs PHI,NBA2H,Pts+Rebs+Asts,8.5,8.48,-0.21%
-Jordan Clarkson,vs PHX,NBA,Pts+Rebs+Asts,31.5,31.44,-0.18%
-Anthony Davis,vs HOU,NBA1H,Pts+Rebs+Asts,18.5,18.47,-0.18%
-Luguentz Dort,@ POR,NBA,Fantasy Score,21,21.04,0.17%
-Luguentz Dort,@ POR,NBA1H,Fantasy Score,10.5,10.52,0.17%
-John Collins,vs PHX,NBA,Pts+Rebs+Asts,24.5,24.46,-0.17%
-Jerami Grant,vs OKC,NBA,Pts+Asts,25.5,25.54,0.16%
-De'Aaron Fox,@ DAL,NBA1H,Pts+Rebs+Asts,19.5,19.47,-0.13%
-Franz Wagner,@ IND,NBA,Fantasy Score,32,32.04,0.13%
-Franz Wagner,@ IND,NBA1H,Fantasy Score,16,16.02,0.13%
-Kristaps Porzingis,@ MEM,NBA,Pts+Asts,21.5,21.48,-0.09%
-Cam Reddish,vs HOU,NBA,Pts+Rebs,13.5,13.49,-0.09%
-Cade Cunningham,@ TOR,NBA,Pts+Asts,26.5,26.48,-0.08%
-Michael Porter Jr.,@ CLE,NBA,Pts+Rebs+Asts,26.5,26.52,0.06%
-Reggie Jackson,@ CLE,NBA,Pts+Asts,17.5,17.51,0.05%
-Eric Gordon,@ UTA,NBA,Points,13.5,13.50,-0.02%
+Alperen Sengun,@ GSW,NBA,Blocked Shots,0.5,1.16,131.36%
+Mitchell Robinson,@ MIN,NBA,Assists,0.5,1.09,118.11%
+Josh Richardson,@ CHI,NBA,Steals,0.5,1.02,103.57%
+Jabari Smith Jr.,@ GSW,NBA,Blocked Shots,0.5,0.95,90.61%
+Jaden McDaniels,vs NYK,NBA,Steals,0.5,0.93,85.53%
+Jaime Jaquez Jr.,@ CHI,NBA,Steals,0.5,0.92,84.67%
+Mitchell Robinson,@ MIN,NBA,Turnovers,0.5,0.90,80.83%
+Malik Monk,@ NOP,NBA,Steals,0.5,0.90,80.63%
+Fred VanVleet,@ GSW,NBA,Blks+Stls,1.5,2.50,66.69%
+Immanuel Quickley,@ MIN,NBA,Steals,0.5,0.83,66.05%
+Rudy Gobert,vs NYK,NBA,Steals,0.5,0.83,65.29%
+Jaden McDaniels,vs NYK,NBA,Rebounds,2.5,4.04,61.73%
+Josh Richardson,@ CHI,NBA,Points,7.5,11.94,59.20%
+Jordan Hawkins,vs SAC,NBA,Steals,0.5,0.79,58.57%
+Jaden McDaniels,vs NYK,NBA,Blocked Shots,0.5,0.79,57.14%
+Nikola Vucevic,vs MIA,NBA,Blocked Shots,0.5,0.77,54.74%
+Immanuel Quickley,@ MIN,NBA,Rebounds,2.5,3.85,54.14%
+Stephen Curry,vs HOU,NBA,Assists,4,5.99,49.67%
+Kyle Lowry,@ CHI,NBA,Points,7.5,11.20,49.31%
+Klay Thompson,vs HOU,NBA,Steals,0.5,0.74,48.62%
+Zach Collins,vs LAC,NBA,Rebounds,6.5,9.16,40.90%
+Domantas Sabonis,@ NOP,NBA,Blocked Shots,0.5,0.70,40.46%
+De'Aaron Fox,@ NOP,NBA,Rebounds,4,5.61,40.16%
+Karl-Anthony Towns,vs NYK,NBA,Steals,0.5,0.70,39.63%
+Nikola Vucevic,vs MIA,NBA,Steals,0.5,0.69,37.98%
+Dillon Brooks,@ GSW,NBA,3-PT Made,1.5,2.06,37.58%
+Julius Randle,@ MIN,NBA,Steals,0.5,0.68,36.44%
+Josh Hart,@ MIN,NBA,Points,6.5,8.83,35.79%
+Josh Hart,@ MIN,NBA,Rebounds,5,6.76,35.11%
+Keldon Johnson,vs LAC,NBA,Turnovers,1.5,2.03,35.10%
+Fred VanVleet,@ GSW,NBA,Rebounds,4,5.37,34.30%
+Duncan Robinson,@ CHI,NBA,Steals,0.5,0.67,34.25%
+Mike Conley,vs NYK,NBA,Free Throws Made,1.5,1.99,32.92%
+Kyle Lowry,@ CHI,NBA,Pts+Rebs,11.5,15.25,32.58%
+Kyle Lowry,@ CHI,NBA,3-PT Made,1.5,1.98,31.68%
+Alperen Sengun,@ GSW,NBA,Rebounds,9.5,12.51,31.64%
+Kawhi Leonard,@ SAS,NBA,Rebounds,6,7.80,29.94%
+Jordan Hawkins,vs SAC,NBA,Points,11,14.25,29.57%
+Julius Randle,@ MIN,NBA,Assists,5,3.54,-29.28%
+Jaden McDaniels,vs NYK,NBA,Pts+Rebs,12.5,16.11,28.90%
+Kyle Lowry,@ CHI,NBA,Pts+Asts,12.5,16.10,28.80%
+Stephen Curry,vs HOU,NBA,Rebs+Asts,9.5,12.22,28.64%
+Victor Wembanyama,vs LAC,NBA,Assists,2.5,3.21,28.50%
+Josh Hart,@ MIN,NBA,Rebs+Asts,7.5,9.60,28.05%
+DeMar DeRozan,vs MIA,NBA,Rebounds,4,5.12,27.94%
+Jeremy Sochan,vs LAC,NBA,Rebounds,5,6.39,27.76%
+Alex Caruso,vs MIA,NBA,Assists,2.5,3.19,27.53%
+Andrew Wiggins,vs HOU,NBA,Free Throws Made,1.5,1.09,-27.27%
+Kyle Lowry,@ CHI,NBA,Pts+Rebs+Asts,16,20.15,25.92%
+Alex Caruso,vs MIA,NBA,3-PT Made,1.5,1.11,-25.90%
+Alperen Sengun,@ GSW,NBA,Assists,5,3.71,-25.90%
+Malik Monk,@ NOP,NBA,Pts+Rebs,16.5,20.72,25.59%
+Zach Collins,vs LAC,NBA,Rebs+Asts,10.5,13.13,25.03%
+Russell Westbrook,@ SAS,NBA,Rebounds,4,4.99,24.85%
+Stephen Curry,vs HOU,NBA,Rebounds,5,6.23,24.67%
+Bam Adebayo,@ CHI,NBA,Free Throws Made,5,3.79,-24.26%
+Alperen Sengun,@ GSW,NBA,Turnovers,2.5,3.10,23.97%
+Jabari Smith Jr.,@ GSW,NBA,Steals,0.5,0.62,23.56%
+Kawhi Leonard,@ SAS,NBA,Rebs+Asts,9,11.11,23.48%
+Victor Wembanyama,vs LAC,NBA,Turnovers,3.5,2.69,-23.25%
+Klay Thompson,vs HOU,NBA,Turnovers,1.5,1.85,23.16%
+James Harden,@ SAS,NBA,Rebounds,5,6.15,22.99%
+Dillon Brooks,@ GSW,NBA,Pts+Asts,14.5,17.79,22.69%
+Cedi Osman,vs LAC,NBA,Points,6.5,7.97,22.68%
+Malik Monk,@ NOP,NBA,Points,13.5,16.56,22.65%
+Dillon Brooks,@ GSW,NBA,Points,12.5,15.26,22.04%
+Domantas Sabonis,@ NOP,NBA,Rebounds,12.5,15.25,21.96%
+Dillon Brooks,@ GSW,NBA,Pts+Rebs+Asts,18.5,22.49,21.58%
+Paul George,@ SAS,NBA,Free Throws Made,4.5,3.54,-21.35%
+Norman Powell,@ SAS,NBA,Points,12.5,15.16,21.26%
+Mitchell Robinson,@ MIN,NBA,Fantasy Score,24,29.05,21.04%
+Dillon Brooks,@ GSW,NBA,Pts+Rebs,16.5,19.96,20.95%
+Mike Conley,vs NYK,NBA,Points,10,12.09,20.93%
+Jalen Brunson,@ MIN,NBA,Rebs+Asts,8,9.67,20.88%
+Norman Powell,@ SAS,NBA,Pts+Rebs+Asts,16.5,19.92,20.75%
+Jaden McDaniels,vs NYK,NBA,Points,10,12.07,20.69%
+Rudy Gobert,vs NYK,NBA,Free Throws Made,2.5,3.01,20.45%
+Jaden McDaniels,vs NYK,NBA,Pts+Asts,11.5,13.81,20.05%
+Ivica Zubac,@ SAS,NBA,Rebounds,9,10.75,19.45%
+Mike Conley,vs NYK,NBA,Pts+Rebs,12.5,14.92,19.39%
+Naz Reid,vs NYK,NBA,Rebounds,4,4.76,19.12%
+Alperen Sengun,@ GSW,NBA,Pts+Asts,24.5,19.82,-19.08%
+Klay Thompson,vs HOU,NBA,Points,15.5,18.40,18.72%
+Rudy Gobert,vs NYK,NBA,Blocked Shots,1.5,1.22,-18.64%
+Terance Mann,@ SAS,NBA,Rebs+Asts,7,5.70,-18.57%
+Jabari Smith Jr.,@ GSW,NBA,Rebounds,7.5,8.87,18.33%
+Paul George,@ SAS,NBA,Rebs+Asts,9.5,11.23,18.21%
+Klay Thompson,vs HOU,NBA,Pts+Asts,17.5,20.60,17.74%
+Dillon Brooks,@ GSW,NBA,Rebounds,4,4.70,17.54%
+Russell Westbrook,@ SAS,NBA,Assists,4,4.70,17.41%
+Stephen Curry,vs HOU,NBA,Free Throws Made,5.5,4.54,-17.41%
+Alperen Sengun,@ GSW,NBA,Points,19.5,16.12,-17.34%
+Coby White,vs MIA,NBA,Assists,4,3.31,-17.22%
+Karl-Anthony Towns,vs NYK,NBA,Blocked Shots,0.5,0.59,17.08%
+Malik Monk,@ NOP,NBA,Pts+Rebs+Asts,21.5,25.17,17.05%
+Anthony Edwards,vs NYK,NBA,Assists,4.5,3.74,-16.85%
+Kyle Anderson,vs NYK,NBA,Assists,4,3.34,-16.62%
+Julius Randle,@ MIN,NBA,Rebounds,8.5,9.91,16.58%
+Jimmy Butler,@ CHI,NBA,Free Throws Made,7.5,6.26,-16.47%
+Paul George,@ SAS,NBA,Rebounds,6,6.98,16.39%
+Mitchell Robinson,@ MIN,NBA,Pts+Rebs,15.5,18.02,16.24%
+Jimmy Butler,@ CHI,NBA,Assists,4.5,5.23,16.23%
+Kyle Lowry,@ CHI,NBA,Rebounds,3.5,4.05,15.67%
+Klay Thompson,vs HOU,NBA,Pts+Rebs,19.5,22.54,15.61%
+Zion Williamson,vs SAC,NBA,Rebounds,6.5,7.49,15.17%
+Klay Thompson,vs HOU,NBA,Pts+Rebs+Asts,21.5,24.75,15.10%
+Paul George,@ SAS,NBA,Turnovers,2.5,2.87,14.97%
+Anthony Edwards,vs NYK,NBA,Blocked Shots,0.5,0.57,14.92%
+Mike Conley,vs NYK,NBA,Pts+Asts,15.5,17.80,14.84%
+Malik Monk,@ NOP,NBA,Rebs+Asts,7.5,8.61,14.76%
+Ivica Zubac,@ SAS,NBA,Blks+Stls,1.5,1.72,14.58%
+Mike Conley,vs NYK,NBA,Assists,5,5.71,14.16%
+Rudy Gobert,vs NYK,NBA,Points,11.5,13.12,14.08%
+Kyle Anderson,vs NYK,NBA,Points,7,7.98,13.99%
+Terance Mann,@ SAS,NBA,Fantasy Score,21,18.08,-13.91%
+Julius Randle,@ MIN,NBA,Pts+Rebs,28.5,32.46,13.89%
+Jalen Brunson,@ MIN,NBA,Assists,5,5.69,13.87%
+Zach Collins,vs LAC,NBA,Pts+Rebs,20.5,23.34,13.84%
+Russell Westbrook,@ SAS,NBA,Points,10.5,11.95,13.83%
+Rudy Gobert,vs NYK,NBA,Rebounds,10.5,11.94,13.76%
+De'Aaron Fox,@ NOP,NBA,Rebs+Asts,10.5,11.94,13.76%
+Dillon Brooks,@ GSW,NBA,Turnovers,1.5,1.71,13.73%
+Malik Monk,@ NOP,NBA,Pts+Asts,18.5,21.00,13.53%
+Klay Thompson,vs HOU,NBA,Free Throws Made,1.5,1.70,13.41%
+Fred VanVleet,@ GSW,NBA,Pts+Rebs,22.5,25.52,13.40%
+Mike Conley,vs NYK,NBA,Rebounds,2.5,2.83,13.23%
+Domantas Sabonis,@ NOP,NBA,Pts+Asts,29,25.17,-13.21%
+Brandon Ingram,vs SAC,NBA,Rebounds,5.5,6.22,13.13%
+Terance Mann,@ SAS,NBA,Points,8,9.05,13.07%
+Zach Collins,vs LAC,NBA,Fantasy Score,29.5,33.32,12.94%
+Naz Reid,vs NYK,NBA,Points,9,10.15,12.78%
+Keldon Johnson,vs LAC,NBA,Points,17.5,19.73,12.76%
+Julius Randle,@ MIN,NBA,Points,20,22.55,12.75%
+Anthony Edwards,vs NYK,NBA,Points,25.5,22.25,-12.74%
+Chris Paul,vs HOU,NBA,Assists,8.5,7.42,-12.73%
+Naji Marshall,vs SAC,NBA,Points,8,9.01,12.65%
+Mike Conley,vs NYK,NBA,Fantasy Score,23.5,26.47,12.62%
+Victor Wembanyama,vs LAC,NBA,Free Throws Made,3.5,3.94,12.48%
+Jeremy Sochan,vs LAC,NBA,Points,10.5,11.78,12.23%
+Jaime Jaquez Jr.,@ CHI,NBA,Pts+Rebs,13,14.58,12.15%
+Zach LaVine,vs MIA,NBA,Pts+Asts,24.5,27.46,12.08%
+Keldon Johnson,vs LAC,NBA,Pts+Rebs,22.5,25.18,11.90%
+Anthony Edwards,vs NYK,NBA,Pts+Asts,29.5,25.99,-11.89%
+Alperen Sengun,@ GSW,NBA,Rebs+Asts,14.5,16.21,11.80%
+Mike Conley,vs NYK,NBA,Pts+Rebs+Asts,18.5,20.63,11.52%
+Zach Collins,vs LAC,NBA,Pts+Rebs+Asts,24.5,27.31,11.46%
+DeMar DeRozan,vs MIA,NBA,Rebs+Asts,9,10.01,11.26%
+Anthony Edwards,vs NYK,NBA,3-PT Made,2.5,2.78,11.13%
+Immanuel Quickley,@ MIN,NBA,Pts+Rebs+Asts,17.5,19.45,11.12%
+Russell Westbrook,@ SAS,NBA,Pts+Rebs+Asts,19.5,21.64,10.99%
+De'Aaron Fox,@ NOP,NBA,Points,28.5,25.41,-10.83%
+Chris Paul,vs HOU,NBA,Rebs+Asts,13,11.59,-10.82%
+Zion Williamson,vs SAC,NBA,Points,25.5,22.74,-10.82%
+Malaki Branham,vs LAC,NBA,Points,8.5,7.58,-10.79%
+Naz Reid,vs NYK,NBA,Pts+Rebs,13.5,14.91,10.48%
+RJ Barrett,@ MIN,NBA,Free Throws Made,3.5,3.14,-10.43%
+Duncan Robinson,@ CHI,NBA,Pts+Asts,18.5,16.58,-10.37%
+RJ Barrett,@ MIN,NBA,Pts+Asts,20.5,18.39,-10.31%
+Jeremy Sochan,vs LAC,NBA,Pts+Rebs,16.5,18.17,10.13%
+Karl-Anthony Towns,vs NYK,NBA,Points,21.5,19.34,-10.02%
+Zach LaVine,vs MIA,NBA,Fantasy Score,33,36.27,9.92%
+Mitchell Robinson,@ MIN,NBA,Rebounds,9,9.89,9.88%
+James Harden,@ SAS,NBA,Rebs+Asts,12.5,13.71,9.71%
+Kyle Anderson,vs NYK,NBA,Rebs+Asts,8.5,7.69,-9.51%
+RJ Barrett,@ MIN,NBA,Steals,0.5,0.45,-9.46%
+Zach LaVine,vs MIA,NBA,Pts+Rebs+Asts,29.5,32.25,9.32%
+De'Aaron Fox,@ NOP,NBA,Pts+Asts,35,31.75,-9.28%
+Anthony Edwards,vs NYK,NBA,Pts+Rebs+Asts,34.5,31.37,-9.06%
+Alex Caruso,vs MIA,NBA,Fantasy Score,19.5,21.25,8.99%
+Karl-Anthony Towns,vs NYK,NBA,Pts+Rebs,30.5,27.77,-8.95%
+Kyle Lowry,@ CHI,NBA,Assists,4.5,4.90,8.92%
+Kyle Anderson,vs NYK,NBA,Rebounds,4,4.36,8.92%
+Keldon Johnson,vs LAC,NBA,Rebounds,5,5.44,8.90%
+Fred VanVleet,@ GSW,NBA,Points,18.5,20.14,8.88%
+Domantas Sabonis,@ NOP,NBA,Points,20.5,18.69,-8.81%
+DeMar DeRozan,vs MIA,NBA,Assists,4.5,4.90,8.79%
+Coby White,vs MIA,NBA,Pts+Asts,16.5,15.06,-8.70%
+Julian Champagnie,vs LAC,NBA,Points,9.5,10.33,8.70%
+Domantas Sabonis,@ NOP,NBA,Rebs+Asts,20,21.72,8.60%
+Fred VanVleet,@ GSW,NBA,Assists,7.5,6.86,-8.59%
+RJ Barrett,@ MIN,NBA,Fantasy Score,27.5,25.18,-8.43%
+Jae'Sean Tate,@ GSW,NBA,Points,7.5,8.13,8.39%
+DeMar DeRozan,vs MIA,NBA,Pts+Rebs,25.5,27.62,8.31%
+Victor Wembanyama,vs LAC,NBA,Rebounds,9,9.74,8.28%
+Domantas Sabonis,@ NOP,NBA,Blks+Stls,1.5,1.62,8.20%
+Zion Williamson,vs SAC,NBA,Rebs+Asts,11,11.90,8.18%
+Nikola Vucevic,vs MIA,NBA,Pts+Asts,17.5,18.92,8.12%
+James Harden,@ SAS,NBA,Assists,7,7.56,8.05%
+Zach LaVine,vs MIA,NBA,Points,21.5,23.23,8.03%
+Victor Wembanyama,vs LAC,NBA,Rebs+Asts,12,12.96,7.98%
+Zion Williamson,vs SAC,NBA,Pts+Asts,29.5,27.16,-7.95%
+James Harden,@ SAS,NBA,Pts+Rebs+Asts,29.5,31.82,7.87%
+James Harden,@ SAS,NBA,Pts+Rebs,22.5,24.26,7.82%
+Zach LaVine,vs MIA,NBA,Pts+Rebs,26,28.01,7.75%
+Rudy Gobert,vs NYK,NBA,Pts+Rebs+Asts,24.5,26.37,7.63%
+Stephen Curry,vs HOU,NBA,Points,28.5,26.32,-7.63%
+Anthony Edwards,vs NYK,NBA,Rebounds,5,5.38,7.62%
+Immanuel Quickley,@ MIN,NBA,Pts+Asts,14.5,15.59,7.53%
+Domantas Sabonis,@ NOP,NBA,Assists,7,6.47,-7.51%
+Julius Randle,@ MIN,NBA,Pts+Rebs+Asts,33.5,35.99,7.45%
+RJ Barrett,@ MIN,NBA,Points,17.5,16.20,-7.42%
+Kyle Anderson,vs NYK,NBA,Pts+Rebs,11.5,12.34,7.27%
+Duncan Robinson,@ CHI,NBA,3-PT Made,3.5,3.25,-7.22%
+James Harden,@ SAS,NBA,Fantasy Score,36.5,39.11,7.15%
+Bam Adebayo,@ CHI,NBA,Turnovers,2.5,2.68,7.10%
+Nikola Vucevic,vs MIA,NBA,Fantasy Score,34,36.40,7.07%
+Bam Adebayo,@ CHI,NBA,Pts+Asts,25.5,23.70,-7.05%
+DeMar DeRozan,vs MIA,NBA,Fantasy Score,36,38.54,7.05%
+Bam Adebayo,@ CHI,NBA,Pts+Rebs+Asts,36.5,33.93,-7.04%
+Jabari Smith Jr.,@ GSW,NBA,Pts+Rebs+Asts,21.5,23.01,7.03%
+Keldon Johnson,vs LAC,NBA,Pts+Rebs+Asts,26.5,28.36,7.01%
+Zion Williamson,vs SAC,NBA,Pts+Rebs,32.5,30.23,-6.99%
+Andrew Wiggins,vs HOU,NBA,Points,13.5,12.57,-6.92%
+Julius Randle,@ MIN,NBA,Fantasy Score,37.5,40.09,6.92%
+Bam Adebayo,@ CHI,NBA,Rebs+Asts,14.5,13.51,-6.85%
+RJ Barrett,@ MIN,NBA,Pts+Rebs,22.5,20.97,-6.81%
+Mike Conley,vs NYK,NBA,Rebs+Asts,8,8.54,6.73%
+Kawhi Leonard,@ SAS,NBA,Free Throws Made,3.5,3.73,6.68%
+Nikola Vucevic,vs MIA,NBA,Free Throws Made,1.5,1.60,6.65%
+DeMar DeRozan,vs MIA,NBA,Pts+Rebs+Asts,30.5,32.52,6.61%
+Keldon Johnson,vs LAC,NBA,Pts+Asts,21.5,22.91,6.58%
+James Harden,@ SAS,NBA,Points,17,18.11,6.53%
+Zach Collins,vs LAC,NBA,Blks+Stls,1.5,1.60,6.51%
+Jae'Sean Tate,@ GSW,NBA,Pts+Rebs,11.5,12.25,6.51%
+Kawhi Leonard,@ SAS,NBA,Pts+Rebs+Asts,32.5,34.56,6.35%
+Anthony Edwards,vs NYK,NBA,Pts+Rebs,29.5,27.63,-6.33%
+Stephen Curry,vs HOU,NBA,Fantasy Score,41,43.54,6.20%
+Alex Caruso,vs MIA,NBA,Points,7.5,7.04,-6.16%
+Fred VanVleet,@ GSW,NBA,Pts+Rebs+Asts,30.5,32.37,6.13%
+Zach LaVine,vs MIA,NBA,Rebs+Asts,8.5,9.02,6.13%
+Nikola Vucevic,vs MIA,NBA,Points,15,15.92,6.12%
+Ivica Zubac,@ SAS,NBA,Pts+Rebs+Asts,20.5,21.75,6.11%
+Nikola Vucevic,vs MIA,NBA,Pts+Rebs,25.5,27.03,6.00%
+Rudy Gobert,vs NYK,NBA,Rebs+Asts,12.5,13.25,5.99%
+Chris Paul,vs HOU,NBA,Points,12,12.72,5.99%
+Kawhi Leonard,@ SAS,NBA,Pts+Rebs,29.5,31.25,5.92%
+Anthony Edwards,vs NYK,NBA,Fantasy Score,40,37.64,-5.89%
+Nikola Vucevic,vs MIA,NBA,Rebounds,10.5,11.11,5.82%
+Kawhi Leonard,@ SAS,NBA,Fantasy Score,40,42.33,5.82%
+Jimmy Butler,@ CHI,NBA,Rebounds,6,6.35,5.82%
+Bam Adebayo,@ CHI,NBA,Pts+Rebs,32.5,30.65,-5.69%
+RJ Barrett,@ MIN,NBA,Pts+Rebs+Asts,24.5,23.15,-5.50%
+Duncan Robinson,@ CHI,NBA,Fantasy Score,24.5,23.15,-5.49%
+Zach LaVine,vs MIA,NBA,Free Throws Made,4.5,4.25,-5.47%
+Nikola Vucevic,vs MIA,NBA,Pts+Rebs+Asts,28.5,30.03,5.38%
+Kyle Lowry,@ CHI,NBA,Rebs+Asts,8.5,8.95,5.29%
+Duncan Robinson,@ CHI,NBA,Points,15,14.22,-5.17%
+DeMar DeRozan,vs MIA,NBA,Blks+Stls,1.5,1.58,5.09%
+Zion Williamson,vs SAC,NBA,Pts+Rebs+Asts,36.5,34.64,-5.09%
+Zach Collins,vs LAC,NBA,Points,13.5,14.18,5.04%
+Karl-Anthony Towns,vs NYK,NBA,Pts+Rebs+Asts,33.5,31.82,-5.03%
+Bam Adebayo,@ CHI,NBA,Points,21.5,20.42,-5.01%
+Brandon Ingram,vs SAC,NBA,Points,25.5,24.24,-4.96%
+Brandon Ingram,vs SAC,NBA,Pts+Asts,31.5,29.94,-4.95%
+Brandon Ingram,vs SAC,NBA,Assists,6,5.70,-4.94%
+Duncan Robinson,@ CHI,NBA,Pts+Rebs+Asts,21.5,20.46,-4.82%
+Paul George,@ SAS,NBA,Points,24.5,23.32,-4.80%
+James Harden,@ SAS,NBA,Pts+Asts,24.5,25.67,4.79%
+Karl-Anthony Towns,vs NYK,NBA,Fantasy Score,38.5,36.68,-4.72%
+Jabari Smith Jr.,@ GSW,NBA,Pts+Asts,13.5,14.14,4.71%
+DeMar DeRozan,vs MIA,NBA,Points,21.5,22.50,4.66%
+Nikola Vucevic,vs MIA,NBA,Rebs+Asts,13.5,14.11,4.55%
+De'Aaron Fox,@ NOP,NBA,Pts+Rebs,32.5,31.02,-4.55%
+Jeremy Sochan,vs LAC,NBA,Fantasy Score,25,26.13,4.53%
+Karl-Anthony Towns,vs NYK,NBA,Pts+Asts,24.5,23.39,-4.53%
+Jalen Brunson,@ MIN,NBA,Points,23.5,22.44,-4.51%
+Terance Mann,@ SAS,NBA,Rebounds,4,3.82,-4.49%
+Andrew Wiggins,vs HOU,NBA,Pts+Asts,15,14.33,-4.44%
+Jalen Brunson,@ MIN,NBA,Fantasy Score,35.5,37.08,4.44%
+Jimmy Butler,@ CHI,NBA,Fantasy Score,40.5,42.29,4.43%
+Chris Paul,vs HOU,NBA,Rebounds,4,4.18,4.40%
+Ivica Zubac,@ SAS,NBA,Points,10.5,10.05,-4.30%
+Doug McDermott,vs LAC,NBA,Points,6.5,6.78,4.28%
+Ivica Zubac,@ SAS,NBA,Fantasy Score,27,28.16,4.28%
+Zach LaVine,vs MIA,NBA,Rebounds,5,4.79,-4.26%
+Stephen Curry,vs HOU,NBA,Pts+Rebs,34,32.56,-4.24%
+Jalen Green,@ GSW,NBA,Points,20.5,19.63,-4.23%
+Keldon Johnson,vs LAC,NBA,Rebs+Asts,9,8.63,-4.16%
+Jimmy Butler,@ CHI,NBA,Points,23.5,22.55,-4.06%
+Anthony Edwards,vs NYK,NBA,Rebs+Asts,9.5,9.12,-3.97%
+Karl-Anthony Towns,vs NYK,NBA,Rebs+Asts,12,12.47,3.92%
+Jeremy Sochan,vs LAC,NBA,Pts+Asts,15.5,14.90,-3.86%
+Jeremy Sochan,vs LAC,NBA,Pts+Rebs+Asts,20.5,21.29,3.85%
+Jalen Green,@ GSW,NBA,Assists,3,3.11,3.81%
+Coby White,vs MIA,NBA,Pts+Rebs+Asts,19.5,18.76,-3.79%
+Andrew Wiggins,vs HOU,NBA,Pts+Rebs,17.5,16.84,-3.77%
+Brandon Ingram,vs SAC,NBA,Rebs+Asts,11.5,11.93,3.70%
+Brandon Ingram,vs SAC,NBA,Pts+Rebs+Asts,37.5,36.16,-3.57%
+Klay Thompson,vs HOU,NBA,Rebounds,4,4.14,3.56%
+Haywood Highsmith,@ CHI,NBA,Fantasy Score,16,15.44,-3.53%
+Alperen Sengun,@ GSW,NBA,Pts+Rebs+Asts,33.5,32.33,-3.49%
+Jae'Sean Tate,@ GSW,NBA,3-PT Made,0.5,0.48,-3.48%
+Keldon Johnson,vs LAC,NBA,Fantasy Score,31,32.05,3.40%
+DeMar DeRozan,vs MIA,NBA,Pts+Asts,26.5,27.40,3.39%
+Victor Wembanyama,vs LAC,NBA,Fantasy Score,40.5,41.85,3.34%
+Brandon Ingram,vs SAC,NBA,Pts+Rebs,31.5,30.46,-3.31%
+Jalen Green,@ GSW,NBA,Pts+Asts,23.5,22.75,-3.21%
+Paul George,@ SAS,NBA,Pts+Rebs+Asts,33.5,34.55,3.15%
+Jae'Sean Tate,@ GSW,NBA,Rebounds,4,4.12,2.99%
+Jalen Brunson,@ MIN,NBA,Pts+Asts,29,28.13,-2.99%
+Tre Jones,vs LAC,NBA,Points,9.5,9.78,2.94%
+Terance Mann,@ SAS,NBA,Pts+Rebs,12.5,12.87,2.93%
+Alperen Sengun,@ GSW,NBA,Free Throws Made,3,2.92,-2.82%
+Chris Paul,vs HOU,NBA,Pts+Rebs+Asts,25,24.31,-2.75%
+Jabari Smith Jr.,@ GSW,NBA,Points,12.5,12.84,2.70%
+Immanuel Quickley,@ MIN,NBA,Points,12.5,12.83,2.66%
+Alex Caruso,vs MIA,NBA,Pts+Asts,10.5,10.23,-2.61%
+Bam Adebayo,@ CHI,NBA,Rebounds,10.5,10.23,-2.59%
+Jimmy Butler,@ CHI,NBA,Pts+Asts,28.5,27.78,-2.54%
+De'Aaron Fox,@ NOP,NBA,Assists,6.5,6.34,-2.48%
+Chris Paul,vs HOU,NBA,Pts+Rebs,16.5,16.89,2.39%
+Victor Wembanyama,vs LAC,NBA,Pts+Rebs,29.5,28.80,-2.37%
+Julius Randle,@ MIN,NBA,Pts+Asts,25.5,26.09,2.29%
+Victor Wembanyama,vs LAC,NBA,Points,19.5,19.06,-2.27%
+Bam Adebayo,@ CHI,NBA,Fantasy Score,42,41.09,-2.16%
+Duncan Robinson,@ CHI,NBA,Pts+Rebs,18.5,18.11,-2.12%
+Coby White,vs MIA,NBA,Points,12,11.75,-2.05%
+Andrew Wiggins,vs HOU,NBA,Pts+Rebs+Asts,19,18.61,-2.05%
+Jimmy Butler,@ CHI,NBA,Pts+Rebs,29.5,28.90,-2.05%
+Jalen Brunson,@ MIN,NBA,Pts+Rebs+Asts,31.5,32.11,1.94%
+Anthony Edwards,vs NYK,NBA,Free Throws Made,3.5,3.43,-1.93%
+Zion Williamson,vs SAC,NBA,Assists,4.5,4.41,-1.92%
+Fred VanVleet,@ GSW,NBA,Rebs+Asts,12,12.23,1.90%
+Zach Collins,vs LAC,NBA,Pts+Asts,18.5,18.15,-1.89%
+Fred VanVleet,@ GSW,NBA,Pts+Asts,26.5,27.00,1.88%
+Alperen Sengun,@ GSW,NBA,Fantasy Score,39.5,40.23,1.86%
+Jabari Smith Jr.,@ GSW,NBA,3-PT Made,1.5,1.47,-1.79%
+Chris Paul,vs HOU,NBA,Pts+Asts,20.5,20.14,-1.78%
+Jalen Green,@ GSW,NBA,Pts+Rebs,24.5,24.09,-1.66%
+Kyle Anderson,vs NYK,NBA,Pts+Asts,11.5,11.31,-1.61%
+Alex Caruso,vs MIA,NBA,Pts+Rebs+Asts,13.5,13.71,1.58%
+Domantas Sabonis,@ NOP,NBA,Pts+Rebs,33.5,33.94,1.31%
+Paul George,@ SAS,NBA,Fantasy Score,40.5,41.02,1.28%
+Malik Monk,@ NOP,NBA,Assists,4.5,4.44,-1.25%
+Kyle Anderson,vs NYK,NBA,Pts+Rebs+Asts,15.5,15.67,1.11%
+Jimmy Butler,@ CHI,NBA,Pts+Rebs+Asts,34.5,34.13,-1.08%
+Jalen Green,@ GSW,NBA,Pts+Rebs+Asts,27.5,27.21,-1.07%
+Victor Wembanyama,vs LAC,NBA,Pts+Asts,22.5,22.27,-1.02%
+Kawhi Leonard,@ SAS,NBA,Pts+Asts,26.5,26.77,1.01%
+Jalen Green,@ GSW,NBA,Rebs+Asts,7.5,7.57,0.99%
+Karl-Anthony Towns,vs NYK,NBA,Rebounds,8.5,8.42,-0.89%
+Jalen Green,@ GSW,NBA,Rebounds,4.5,4.46,-0.88%
+Zach Collins,vs LAC,NBA,Assists,4,3.97,-0.75%
+Terance Mann,@ SAS,NBA,Pts+Asts,11,10.93,-0.68%
+Paul George,@ SAS,NBA,Pts+Rebs,30.5,30.31,-0.63%
+Andrew Wiggins,vs HOU,NBA,Fantasy Score,24,23.85,-0.63%
+Stephen Curry,vs HOU,NBA,Pts+Asts,32.5,32.31,-0.58%
+Julius Randle,@ MIN,NBA,Free Throws Made,4.5,4.53,0.57%
+Alperen Sengun,@ GSW,NBA,Pts+Rebs,28.5,28.63,0.44%
+Julius Randle,@ MIN,NBA,Rebs+Asts,13.5,13.45,-0.40%
+Coby White,vs MIA,NBA,Pts+Rebs,15.5,15.45,-0.32%
+Jalen Brunson,@ MIN,NBA,Pts+Rebs,26.5,26.42,-0.31%
+Paul George,@ SAS,NBA,Pts+Asts,27.5,27.57,0.26%
+Alex Caruso,vs MIA,NBA,Pts+Rebs,10.5,10.52,0.23%
+Kawhi Leonard,@ SAS,NBA,Points,23.5,23.45,-0.21%
+Domantas Sabonis,@ NOP,NBA,Pts+Rebs+Asts,40.5,40.41,-0.21%
+Jaime Jaquez Jr.,@ CHI,NBA,Points,9,8.99,-0.15%
+Stephen Curry,vs HOU,NBA,Pts+Rebs+Asts,38.5,38.55,0.12%
+DeMar DeRozan,vs MIA,NBA,Free Throws Made,5.5,5.51,0.11%
+Coby White,vs MIA,NBA,Rebs+Asts,7,7.01,0.10%
+Jeremy Sochan,vs LAC,NBA,Rebs+Asts,9.5,9.51,0.05%
+Victor Wembanyama,vs LAC,NBA,Pts+Rebs+Asts,32,32.01,0.05%
+Chris Paul,vs HOU,NBA,3-PT Made,1.5,1.50,0.02%
